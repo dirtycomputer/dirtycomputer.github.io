@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a master student under the supervision of Prof. Chengwei Pan at Beihang University, aiming to accelerate the process of making AI beneficial for Healthcare.
+He is currently a master student under the supervision of Prof. Chengwei Pan at Beihang University, aiming to accelerate the process of making AI beneficial for Healthcare.
 
-
-My research interest includes computer vision and large language model. I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes computer vision and large language model.
 
 
 <!-- # 🔥 News
@@ -42,10 +41,12 @@ My research interest includes computer vision and large language model. I have p
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.08* 1st-Class Scholarship, Beihang University
+- *2023* Rank 2/42 in Beihang University
+- *2022* Rank 14/277 in Northeastern University
 
 # 📖 Educations
 - *2022.09 - present*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in Institute of Artificial Intelligence, Beihang University, Beijing, China
