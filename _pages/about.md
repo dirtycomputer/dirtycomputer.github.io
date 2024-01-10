@@ -51,6 +51,7 @@ His research interest includes computer vision and large language model. He has 
 
 # 📖 Educations
 - *2022.09 - present*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in Institute of Artificial Intelligence, Beihang University, Beijing, China
+- *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Cao Peng](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
 <!-- # 💬 Invited Talks
