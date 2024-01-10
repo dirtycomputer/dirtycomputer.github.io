@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyuan Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Applying for 25Fall PhD"
 repository               : "dirtycomputer/dirtycomputer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyuan Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
