@@ -19,7 +19,7 @@ redirect_from:
 
 He is currently a master student under the supervision of Prof. Chengwei Pan at Beihang University, aiming to accelerate the process of making AI beneficial for Healthcare.
 
-His research interest includes computer vision and large language model. He has published many papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+His research interest includes computer vision and large language model. He has published many papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 
