@@ -23,11 +23,10 @@ His research interest includes computer vision and large language model. He has 
 
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 News
+- *2024.01*: &nbsp;🎉🎉 [BiPFT was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
 
--->
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="sym" width="100%"></div></div>
