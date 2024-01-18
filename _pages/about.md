@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-He is currently a master student under the supervision of Prof. Chengwei Pan at Beihang University, aiming to accelerate the process of making AI beneficial for Healthcare.
+He is presently pursuing his Master's degree at Beihang University, mentored by Professor [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), with a research focus on advancing the application of AI in healthcare.
 
-His research interest includes computer vision and large language model. He has published many papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+His research interest also includes computer vision and large language model. He has published many papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+If you are interested in joining the project or collaborating, please send me an email (buaa42wxy@gmail.com).
 
 
 
@@ -51,7 +53,7 @@ Xingrun Xing, Li Du, **Xinyuan Wang**, Xianlin Zeng,Yequan Wang, Zheng Zhang, Ji
 - *2022* Rank 14/277 in Northeastern University
 
 # 📖 Educations
-- *2022.09 - present*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in Institute of Artificial Intelligence, Beihang University, Beijing, China
+- *2022.09 - present*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
 - *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Cao Peng](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
