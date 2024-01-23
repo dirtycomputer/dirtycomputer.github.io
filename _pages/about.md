@@ -26,13 +26,14 @@ If you are interested in joining the project or collaborating, please send me an
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 [BiPFT was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
+- *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted by AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
+- *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted by AAAI 2024](https://arxiv.org/pdf/2312.08937.pdf).
 - *2023.10*: &nbsp;🎉🎉 [Fseg was accepted by BIBM 2023](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="sym" width="100%"></div>
+<div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,13 +44,13 @@ Xingrun Xing, Li Du, **Xinyuan Wang**, Xianlin Zeng,Yequan Wang, Zheng Zhang, Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='../images/projects/Fseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='../images/projects/Fseg.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Frequency Domain Learning in 3D
 Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
-Xinyuan Wang, Chengwei Pan, Hongming Dai, Gangming Zhao, Jinpeng Li, Xiao Zhang, Yizhou Yu
+**Xinyuan Wang**, Chengwei Pan, Hongming Dai, Gangming Zhao, Jinpeng Li, Xiao Zhang, Yizhou Yu
 </div>
 </div>
 
