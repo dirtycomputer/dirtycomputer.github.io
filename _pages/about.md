@@ -31,22 +31,27 @@ If you are interested in joining the project or collaborating, please send me an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="sym" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 [BiPFT:  Binary Pre-trained Foundation Transformer with Low-rank Estimation of
 Binarization Residual Polynomials](https://arxiv.org/pdf/2312.08937.pdf)
 
 Xingrun Xing, Li Du, **Xinyuan Wang**, Xianlin Zeng,Yequan Wang, Zheng Zhang, Jiajun Zhang
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/projects/Fseg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='../images/projects/Fseg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Frequency Domain Learning in 3D
 Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
 Xinyuan Wang, Chengwei Pan, Hongming Dai, Gangming Zhao, Jinpeng Li, Xiao Zhang, Yizhou Yu
-
+</div>
+</div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
