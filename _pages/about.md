@@ -28,7 +28,8 @@ If you are interested in joining the project or collaborating, please send me an
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted by AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
 - *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted by AAAI 2024](https://arxiv.org/pdf/2312.08937.pdf).
-- *2023.10*: &nbsp;🎉🎉 [Fseg was accepted by BIBM 2023](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
+- *2023.10*: &nbsp;🎉🎉 [Fseg was accepted by BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
+- *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
 # 📝 Publications 
 
@@ -75,6 +76,18 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 <!-- # 💬 Invited Talks
 - *2023.12*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+<!-- 
+    jiaze song
+    zihao fu
+    haoyu hu
+    xijie huang
+    rong fan
+    yuhan duan
+    xinhui huang
+    chenxiao yue
+    wenjie pan
+-->
 
 # 💻 Internships
  
