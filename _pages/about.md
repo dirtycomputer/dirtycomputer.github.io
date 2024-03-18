@@ -34,6 +34,19 @@ If you are interested in joining the project or collaborating, please send me an
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[LightM-UNet: Mamba Assists in Lightweight
+UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
+
+
+Weibin Liao, Yinghao Zhu, **Xinyuan Wang**, Chengwei Pan, Yasha Wang, Liantao Ma
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
