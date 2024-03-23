@@ -76,8 +76,10 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+
 - *2023.11* [Student Union President](https://iai.buaa.edu.cn/info/1011/2924.htm), Institute of Artificial Intelligence, Beihang University
 - *2023.08* 1st-Class Scholarship, Beihang University
+- *2023.07* [Silver Diploma](https://mp.weixin.qq.com/s/EgRv-WxUEUq_sCSDsjBKgA), World Choir Games 2023
 - *2023* Rank 2/42 in Beihang University
 - *2022* Rank 14/277 in Northeastern University
 
