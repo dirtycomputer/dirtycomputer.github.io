@@ -86,9 +86,9 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
-<!-- # 💬 Invited Talks
-- *2023.12*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- *2023.12*, Istanbul, Turkey. He delivered a [keynote speech](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/documents/BIBM2023-Program-1208.pdf) on the topic of "Leveraging Frequency Domain Learning in 3D Coronary Segmentation" at the BIBM 2023 conference. 
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <!-- 
     jiaze song
@@ -100,6 +100,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
     xinhui huang
     chenxiao yue
     wenjie pan
+    zhiru wang
 -->
 
 # 💻 Internships
