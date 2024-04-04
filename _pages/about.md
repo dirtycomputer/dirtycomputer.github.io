@@ -118,6 +118,4 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
 # 🌍 Website Visiting Map
 
-<a href="https://mapmyvisitors.com/web/1bw0w"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=ItepywghaB7DpioDsZd9QS7Q8t6BfxyDtA3DlM0OKgM&cl=ffffff" /></a>
-
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ItepywghaB7DpioDsZd9QS7Q8t6BfxyDtA3DlM0OKgM&cl=ffffff&w=a"></script>
