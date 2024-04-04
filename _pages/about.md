@@ -40,7 +40,7 @@ If you are interested in joining the project or collaborating, please send me an
 
 [LightM-UNet: Mamba Assists in Lightweight
 UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
-[Github Repo](https://github.com/mrblankness/lightm-unet) [GitHub Repo stars](https://img.shields.io/github/stars/MrBlankness/LightM-UNet)
+[Github Repo](https://github.com/mrblankness/lightm-unet) ![GitHub Repo stars](https://img.shields.io/github/stars/MrBlankness/LightM-UNet)
  
 
 
