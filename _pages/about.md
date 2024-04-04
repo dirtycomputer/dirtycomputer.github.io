@@ -27,7 +27,7 @@ If you are interested in joining the project or collaborating, please send me an
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/pdf/2403.05246.pdf) github repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
- 
+
 - *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted by AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
 - *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted by AAAI 2024](https://arxiv.org/pdf/2312.08937.pdf).
 - *2023.10*: &nbsp;🎉🎉 [Fseg was accepted by BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
@@ -42,10 +42,9 @@ If you are interested in joining the project or collaborating, please send me an
 
 [LightM-UNet: Mamba Assists in Lightweight
 UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
-[Github Repo](https://github.com/mrblankness/lightm-unet)
 
 
-Weibin Liao, Yinghao Zhu, **Xinyuan Wang**, Chengwei Pan, Yasha Wang, Liantao Ma
+Weibin Liao, [Yinghao Zhu](https://yhzhu99.github.io), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Yasha Wang](https://www.aminer.cn/profile/yasha-wang/542cc019dabfae4b91c24265), [Liantao Ma](http://scholar.pku.edu.cn/malt)
 </div>
 </div>
 
@@ -54,10 +53,10 @@ Weibin Liao, Yinghao Zhu, **Xinyuan Wang**, Chengwei Pan, Yasha Wang, Liantao Ma
 </div>
 <div class='paper-box-text' markdown="1">
 
-[BiPFT:  Binary Pre-trained Foundation Transformer with Low-rank Estimation of
+[BiPFT: Binary Pre-trained Foundation Transformer with Low-rank Estimation of
 Binarization Residual Polynomials](https://arxiv.org/pdf/2312.08937.pdf)
 
-Xingrun Xing, Li Du, **Xinyuan Wang**, Xianlin Zeng,Yequan Wang, Zheng Zhang, Jiajun Zhang
+[Xingrun Xing](https://scholar.google.com.hk/citations?hl=zh-CN&user=sEdxu1UAAAAJ&view_op=list_works&sortby=pubdate),[Li Du](https://scholar.google.com.hk/citations?user=ag1JoOEAAAAJ&hl=zh-CN), **Xinyuan Wang**, Xianlin Zeng, [Yequan Wang](https://www.wangyequan.com), [Zheng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=S2bil1cAAAAJ&view_op=list_works&sortby=pubdate), [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm)
 </div>
 </div>
 
@@ -67,7 +66,7 @@ Xingrun Xing, Li Du, **Xinyuan Wang**, Xianlin Zeng,Yequan Wang, Zheng Zhang, Ji
 [Leveraging Frequency Domain Learning in 3D
 Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
-**Xinyuan Wang**, Chengwei Pan, Hongming Dai, Gangming Zhao, Jinpeng Li, Xiao Zhang, Yizhou Yu
+**Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), Hongming Dai, [Gangming Zhao](https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en), [Jinpeng Li](https://scholar.google.com/citations?user=hzEaITAAAAAJ&hl=zh-CN), Xiao Zhang, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
 </div>
 </div>
 
