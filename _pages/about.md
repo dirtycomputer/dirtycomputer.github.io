@@ -26,6 +26,8 @@ If you are interested in joining the project or collaborating, please send me an
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/pdf/2403.05246.pdf) github repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
+ 
 - *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted by AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
 - *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted by AAAI 2024](https://arxiv.org/pdf/2312.08937.pdf).
 - *2023.10*: &nbsp;🎉🎉 [Fseg was accepted by BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
@@ -40,8 +42,7 @@ If you are interested in joining the project or collaborating, please send me an
 
 [LightM-UNet: Mamba Assists in Lightweight
 UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
-[Github Repo](https://github.com/mrblankness/lightm-unet) ![GitHub Repo stars](https://img.shields.io/github/stars/MrBlankness/LightM-UNet)
- 
+[Github Repo](https://github.com/mrblankness/lightm-unet)
 
 
 Weibin Liao, Yinghao Zhu, **Xinyuan Wang**, Chengwei Pan, Yasha Wang, Liantao Ma
