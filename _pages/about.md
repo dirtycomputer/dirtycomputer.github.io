@@ -21,7 +21,7 @@ He is presently pursuing his Master's degree at Beihang University, mentored by 
 
 His research interest also includes computer vision and large language model. He has published many papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-If you are interested in joining the project or collaborating, please send me an email (buaa42wxy@gmail.com).
+He is currently engaged in academic collaborations with THU, PKU, NUS, and HKU, among others. If you are interested in joining the project or exploring collaboration opportunities, please contact him via email at buaa42wxy@gmail.com.
 
 
 
@@ -78,7 +78,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-
+- *2024.04* Outstanding graduate student, Beihang University
 - *2023.11* [Student Union President](https://iai.buaa.edu.cn/info/1011/2924.htm), Institute of Artificial Intelligence, Beihang University
 - *2023.08* 1st-Class Scholarship, Beihang University
 - *2023.07* [Silver Diploma](https://mp.weixin.qq.com/s/EgRv-WxUEUq_sCSDsjBKgA), World Choir Games 2023🎵
