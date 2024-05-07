@@ -78,6 +78,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
 - *2024.04* Outstanding graduate student, Beihang University
 - *2023.11* [Student Union President](https://iai.buaa.edu.cn/info/1011/2924.htm), Institute of Artificial Intelligence, Beihang University
 - *2023.08* 1st-Class Scholarship, Beihang University
