@@ -117,6 +117,23 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - *2021.06 - 2022.06*, Key Laboratory of Intelligent Computing in Medical Image of Ministry of Education, Northeastern University, Shenyang, China. He was a research intern mentored by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN) aiming at medical segmentation tasks.
 - *2019.03 - 2021.06*, Northeastern University, China. He was a research intern mentored by [Qidong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=cFAcguwAAAAJ&view_op=list_works&sortby=pubdate), [Zhuoran Liu](https://scholar.google.com/citations?user=tEyLvJQAAAAJ&hl=zh-CN),[Changsheng Zhang](https://dblp.org/pid/70/1079-1.html) and [Bin Zhang](https://dblp.org/pid/13/5236-1.html). His research focuses on multi-objective optimization and path planning problems.
 
+<!-- # 👨🏻‍🎓 Alumni
+
+- Hongming Dai (National University of Singapore)
+- Xingxing Run (Beijing Academy of Artificial Intelligence, Chinese Academy of Sciences)
+- Yinghao Zhu (Beihang Univeristy)
+- Wenhui Tan (Renmin Univeristy of China)
+- Gangming Zhao (The University of Hong Kong)
+- Hantao Zhang (University of Science and Technology of China)
+-->
+
+<!-- # 👨🏻‍💻 Undergraduate Research Assistant
+
+- Zihao Fu (Beihang University -> Tsinghua University)
+- Haoyu Hu (Beihang University -> Institute of Automation，Chinese Academy of Sciences)
+- Jiaze Song (Beihang University -> present)
+- Xijie Huang (Beihang University -> present) -->
+
 # 🌍 Website Visiting Map
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ItepywghaB7DpioDsZd9QS7Q8t6BfxyDtA3DlM0OKgM&cl=ffffff&w=a"></script>
