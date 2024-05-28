@@ -78,6 +78,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.05* [Neurips 2024](https://neurips.cc/Conferences/2024) reviewer
 - *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
 - *2024.04* Outstanding graduate student, Beihang University
 - *2023.11* [Student Union President](https://iai.buaa.edu.cn/info/1011/2924.htm), Institute of Artificial Intelligence, Beihang University
@@ -120,11 +121,14 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 <!-- # 👨🏻‍🎓 Alumni
 
 - Hongming Dai (National University of Singapore)
-- Xingxing Run (Beijing Academy of Artificial Intelligence, Chinese Academy of Sciences)
+- Xingrun Xing (Beijing Academy of Artificial Intelligence, Chinese Academy of Sciences)
 - Yinghao Zhu (Beihang Univeristy)
-- Wenhui Tan (Renmin Univeristy of China)
 - Gangming Zhao (The University of Hong Kong)
 - Hantao Zhang (University of Science and Technology of China)
+- Wenhui Tan (Renmin Univeristy of China)
+- Mengqun Jin (Tsinghua University)
+- Renbo Chen (Tsinghua University)
+- Leqi Lei (Tsinghua University)
 -->
 
 <!-- # 👨🏻‍💻 Undergraduate Research Assistant
@@ -132,7 +136,15 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Zihao Fu (Beihang University -> Tsinghua University)
 - Haoyu Hu (Beihang University -> Institute of Automation，Chinese Academy of Sciences)
 - Jiaze Song (Beihang University -> present)
-- Xijie Huang (Beihang University -> present) -->
+- Xijie Huang (Beihang University -> present) 
+- Xinhui Huang (Beihang University -> present) 
+- Jiawen Xi (Beihang University -> present) 
+- Chenxiao Yue (Beihang University -> present) 
+- Wenjie Pan (Beihang University -> present) 
+- Yuhan Duan (Beihang University -> present) 
+- Rong Fan (Beihang University -> present) 
+
+-->
 
 # 🌍 Website Visiting Map
 
