@@ -94,19 +94,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
 # 💬 Invited Talks
 - *2023.12*, Istanbul, Turkey. He delivered a [keynote speech](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/documents/BIBM2023-Program-1208.pdf) on the topic of "Leveraging Frequency Domain Learning in 3D Coronary Segmentation" at the BIBM 2023 conference. 
-<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- 
-    jiaze song
-    zihao fu
-    haoyu hu
-    xijie huang
-    rong fan
-    yuhan duan
-    xinhui huang
-    chenxiao yue
-    wenjie pan
-    zhiru wang
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
 -->
 
 # 💻 Internships
@@ -118,20 +106,19 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - *2021.06 - 2022.06*, Key Laboratory of Intelligent Computing in Medical Image of Ministry of Education, Northeastern University, Shenyang, China. He was a research intern mentored by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN) aiming at medical segmentation tasks.
 - *2019.03 - 2021.06*, Northeastern University, China. He was a research intern mentored by [Qidong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=cFAcguwAAAAJ&view_op=list_works&sortby=pubdate), [Zhuoran Liu](https://scholar.google.com/citations?user=tEyLvJQAAAAJ&hl=zh-CN),[Changsheng Zhang](https://dblp.org/pid/70/1079-1.html) and [Bin Zhang](https://dblp.org/pid/13/5236-1.html). His research focuses on multi-objective optimization and path planning problems.
 
-<!-- # 👨🏻‍🎓 Alumni
+# 👨🏻‍🎓 Alumni
 
 - Hongming Dai (National University of Singapore)
 - Xingrun Xing (Beijing Academy of Artificial Intelligence, Chinese Academy of Sciences)
 - Yinghao Zhu (Beihang Univeristy)
 - Gangming Zhao (The University of Hong Kong)
 - Hantao Zhang (University of Science and Technology of China)
-- Wenhui Tan (Renmin Univeristy of China)
+<!-- - Wenhui Tan (Renmin Univeristy of China)
 - Mengqun Jin (Tsinghua University)
 - Renbo Chen (Tsinghua University)
-- Leqi Lei (Tsinghua University)
--->
+- Leqi Lei (Tsinghua University) -->
 
-<!-- # 👨🏻‍💻 Undergraduate Research Assistant
+# 👨🏻‍💻 Undergraduate Research Assistant
 
 - Zihao Fu (Beihang University -> Tsinghua University)
 - Haoyu Hu (Beihang University -> Institute of Automation，Chinese Academy of Sciences)
@@ -140,11 +127,9 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Xinhui Huang (Beihang University -> present) 
 - Jiawen Xi (Beihang University -> present) 
 - Chenxiao Yue (Beihang University -> present) 
-- Wenjie Pan (Beihang University -> present) 
 - Yuhan Duan (Beihang University -> present) 
 - Rong Fan (Beihang University -> present) 
-
--->
+- Wenjie Pan (Beihang University -> present) 
 
 # 🌍 Website Visiting Map
 
