@@ -113,10 +113,13 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Yinghao Zhu (Beihang Univeristy)
 - Gangming Zhao (The University of Hong Kong)
 - Hantao Zhang (University of Science and Technology of China)
-<!-- - Wenhui Tan (Renmin Univeristy of China)
+
+<!-- 
+- Wenhui Tan (Renmin Univeristy of China)
 - Mengqun Jin (Tsinghua University)
 - Renbo Chen (Tsinghua University)
-- Leqi Lei (Tsinghua University) -->
+- Leqi Lei (Tsinghua University) 
+-->
 
 # 👨🏻‍💻 Undergraduate Research Assistant
 
