@@ -128,6 +128,8 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Yinghao Zhu (Beihang Univeristy)
 - Gangming Zhao (The University of Hong Kong)
 - Hantao Zhang (University of Science and Technology of China)
+- Hao Wang (Beihang Univeristy)
+- Jingkun An (Beihang Univeristy)
 
 <!-- 
 - Wenhui Tan (Renmin Univeristy of China)
