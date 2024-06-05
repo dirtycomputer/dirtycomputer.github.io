@@ -26,6 +26,10 @@ He is currently engaged in academic collaborations with THU, PKU, NUS, and HKU, 
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) dataset 3MAD-Tiny-1K released [![3MAD-Tiny-1K](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) 3MAD-66K released [![3MAD-66K](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K)
+
+- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) github repo released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
+
 - *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/pdf/2403.05246.pdf) github repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
 
 - *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted by AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
