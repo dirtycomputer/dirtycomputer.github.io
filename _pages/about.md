@@ -36,6 +36,17 @@ He is currently engaged in academic collaborations with THU, PKU, NUS, and HKU, 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/3MAD.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)
+
+[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://openreview.net/profile?id=~Hantao_Zhang2), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">arxiv release</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
