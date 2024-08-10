@@ -21,7 +21,7 @@ He is presently pursuing his Master's degree at Beihang University, mentored by 
 
 His research interest also includes computer vision and large language model. He has published many papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-He is currently engaged in academic collaborations with THU, PKU, NUS, and HKU, among others. If you are interested in joining the project or exploring collaboration opportunities, please contact him via email at buaa42wxy@gmail.com.
+He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU, among others. If you are interested in joining the project or exploring collaboration opportunities, please contact him via email at buaa42wxy@gmail.com.
 
 
 
@@ -121,7 +121,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - *2021.06 - 2022.06*, Key Laboratory of Intelligent Computing in Medical Image of Ministry of Education, Northeastern University, Shenyang, China. He was a research intern mentored by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN) aiming at medical segmentation tasks.
 - *2019.03 - 2021.06*, Northeastern University, China. He was a research intern mentored by [Qidong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=cFAcguwAAAAJ&view_op=list_works&sortby=pubdate), [Zhuoran Liu](https://scholar.google.com/citations?user=tEyLvJQAAAAJ&hl=zh-CN),[Changsheng Zhang](https://dblp.org/pid/70/1079-1.html) and [Bin Zhang](https://dblp.org/pid/13/5236-1.html). His research focuses on multi-objective optimization and path planning problems. This work was supported by the [Key Project of National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/) (U1908212) and the Fundamental Research Funds for the Central Universities (N2017013, N2017014).
 
-# 👨🏻‍🎓 Alumni
+# 👨🏻‍🎓 Collaborators
 
 - Hongming Dai (National University of Singapore)
 - Xingrun Xing (Beijing Academy of Artificial Intelligence, Chinese Academy of Sciences)
@@ -130,12 +130,16 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Hantao Zhang (University of Science and Technology of China)
 - Hao Wang (Beihang Univeristy)
 - Jingkun An (Beihang Univeristy)
+- Renmiao Chen (Tsinghua University)
+- Zekun Wang (Beihang University)
 
 <!-- 
 - Wenhui Tan (Renmin Univeristy of China)
 - Mengqun Jin (Tsinghua University)
-- Renbo Chen (Tsinghua University)
 - Leqi Lei (Tsinghua University) 
+- Jiancheng Yang (EPFL)
+- Zhiru Wang (Beihang University)
+- Shiyun Xie (Beihang University)
 -->
 
 # 👨🏻‍💻 Undergraduate Research Assistant
@@ -150,6 +154,8 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Yuhan Duan (Beihang University -> present) 
 - Rong Fan (Beihang University -> present) 
 - Wenjie Pan (Beihang University -> present) 
+- Yuhe Liu (Beihang University -> present) 
+- Yizhe Wang (Beihang University -> present) 
 
 # 🌍 Website Visiting Map
 
