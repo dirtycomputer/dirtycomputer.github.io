@@ -93,6 +93,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.08* [ICLR 2025](https://iclr.cc/Conferences/2025) reviewer
 - *2024.05* [Neurips 2024](https://neurips.cc/Conferences/2024) reviewer
 - *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
 - *2024.04* Outstanding graduate student, Beihang University
@@ -132,12 +133,12 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Jingkun An (Beihang Univeristy)
 - Renmiao Chen (Tsinghua University)
 - Zekun Wang (Beihang University)
+- Jiancheng Yang (EPFL)
 
 <!-- 
 - Wenhui Tan (Renmin Univeristy of China)
 - Mengqun Jin (Tsinghua University)
 - Leqi Lei (Tsinghua University) 
-- Jiancheng Yang (EPFL)
 - Zhiru Wang (Beihang University)
 - Shiyun Xie (Beihang University)
 -->
