@@ -46,7 +46,7 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 
 [Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)
 
-[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://openreview.net/profile?id=~Hantao_Zhang2), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
+[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://openreview.net/profile?id=~Hantao_Zhang2), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
 </div>
 </div>
 
@@ -59,7 +59,7 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
 
 
-Weibin Liao, [Yinghao Zhu](https://yhzhu99.github.io), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Yasha Wang](https://www.aminer.cn/profile/yasha-wang/542cc019dabfae4b91c24265), [Liantao Ma](http://scholar.pku.edu.cn/malt)
+[Weibin Liao](https://scholar.google.com/citations?hl=zh-CN&user=4yUXvDsAAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Yasha Wang](https://www.aminer.cn/profile/yasha-wang/542cc019dabfae4b91c24265), [Liantao Ma](http://scholar.pku.edu.cn/malt)
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Binarization Residual Polynomials](https://arxiv.org/pdf/2312.08937.pdf)
 [Leveraging Frequency Domain Learning in 3D
 Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
-**Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), Hongming Dai, [Gangming Zhao](https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en), [Jinpeng Li](https://scholar.google.com/citations?user=hzEaITAAAAAJ&hl=zh-CN), Xiao Zhang, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
+**Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Hongming Dai](https://www.linkedin.com/in/hongming-dai-76b936176/), [Gangming Zhao](https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en), [Jinpeng Li](https://scholar.google.com/citations?user=hzEaITAAAAAJ&hl=zh-CN), Xiao Zhang, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
 </div>
 </div>
 
@@ -141,6 +141,10 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Leqi Lei (Tsinghua University) 
 - Zhiru Wang (Beihang University)
 - Shiyun Xie (Beihang University)
+- Jiawen Xi (Beihang University)
+- Zhexin Zhang (Tsinghua University)
+- Pei Ke (Tsinghua University)
+- Shiyao Cui (Tsinghua University)
 -->
 
 # 👨🏻‍💻 Undergraduate Research Assistant
