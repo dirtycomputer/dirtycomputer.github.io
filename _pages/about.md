@@ -44,9 +44,9 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)
+[Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)
 
-[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://openreview.net/profile?id=~Hantao_Zhang2), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
+[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://openreview.net/profile?id=~Hantao_Zhang2), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), Hao Wang, [Hao Liang](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ&view_op=list_works&sortby=pubdate), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
 </div>
 </div>
 
@@ -141,7 +141,6 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Leqi Lei (Tsinghua University) 
 - Zhiru Wang (Beihang University)
 - Shiyun Xie (Beihang University)
-- Jiawen Xi (Beihang University)
 - Zhexin Zhang (Tsinghua University)
 - Pei Ke (Tsinghua University)
 - Shiyao Cui (Tsinghua University)
@@ -151,12 +150,12 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
 - Zihao Fu (Beihang University -> Tsinghua University)
 - Haoyu Hu (Beihang University -> Institute of Automation，Chinese Academy of Sciences)
-- Jiaze Song (Beihang University -> present)
+- Jiaze Song (Beihang University -> Peking University)
+- Yuhan Duan (Beihang University -> Beihang University) 
+- Jiawen Xi (Beihang University -> Beihang University) 
 - Xijie Huang (Beihang University -> present) 
 - Xinhui Huang (Beihang University -> present) 
-- Jiawen Xi (Beihang University -> present) 
 - Chenxiao Yue (Beihang University -> present) 
-- Yuhan Duan (Beihang University -> present) 
 - Rong Fan (Beihang University -> present) 
 - Wenjie Pan (Beihang University -> present) 
 - Yuhe Liu (Beihang University -> present) 
