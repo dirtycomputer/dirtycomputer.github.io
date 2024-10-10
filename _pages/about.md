@@ -40,6 +40,17 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/LeFusion.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models](https://arxiv.org/abs/2403.14066)
+
+Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong Wan](https://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm), **Xinyuan Wang**, Wei Peng, [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">arxiv release</div><img src='../images/projects/3MAD.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
