@@ -40,6 +40,22 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/BlackDAN.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](https://arxiv.org/abs/2410.09804)
+
+**Xinyuan Wang**, Victor Shea-Jay Huang, Renmiao Chen, Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/3MAD.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">arxiv release</div><img src='../images/projects/LeFusion.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
