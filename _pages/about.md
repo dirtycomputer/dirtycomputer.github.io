@@ -51,11 +51,6 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/3MAD.png' alt="sym" width="80%"></div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">arxiv release</div><img src='../images/projects/LeFusion.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
