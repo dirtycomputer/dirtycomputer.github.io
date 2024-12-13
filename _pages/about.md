@@ -73,7 +73,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
+<div><div class="badge">AAAI 2025</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -173,7 +173,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 # 👨🏻‍💻 Undergraduate Research Assistant
 
 - Zihao Fu (Beihang University -> Tsinghua University)
-- Haoyu Hu (Beihang University -> Institute of Automation，Chinese Academy of Sciences)
+- Haoyu Hu (Beihang University -> Institute of Automation, Chinese Academy of Sciences)
 - Jiaze Song (Beihang University -> Peking University)
 - Yuhan Duan (Beihang University -> Beihang University) 
 - Jiawen Xi (Beihang University -> Beihang University) 
