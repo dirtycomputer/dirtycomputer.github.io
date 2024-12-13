@@ -26,6 +26,7 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted by AAAI 2024](https://arxiv.org/abs/2405.20775).
 - *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) dataset 3MAD-Tiny-1K released [![3MAD-Tiny-1K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) 3MAD-66K released [![3MAD-66K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K)
 
 - *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) github repo released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
@@ -115,6 +116,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.12* [ICML 2025](https://icml.cc/Conferences/2025) reviewer
 - *2024.10* Outstanding League Member, Beihang University
 - *2024.08* [ICLR 2025](https://iclr.cc/Conferences/2025) reviewer
 - *2024.05* [Neurips 2024](https://neurips.cc/Conferences/2024) reviewer
