@@ -26,7 +26,7 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted by AAAI 2024](https://arxiv.org/abs/2405.20775).
+- *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted by AAAI 2025](https://arxiv.org/abs/2405.20775).
 - *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) dataset 3MAD-Tiny-1K released [![3MAD-Tiny-1K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) 3MAD-66K released [![3MAD-66K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K)
 
 - *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) github repo released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
@@ -63,7 +63,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/3MAD.png' alt="sym" width="80%"></div>
+<div><div class="badge">AAAI 2025</div><img src='../images/projects/3MAD.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
