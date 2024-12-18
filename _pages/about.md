@@ -116,6 +116,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.12* [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) student scholarship
 - *2024.12* [ICML 2025](https://icml.cc/Conferences/2025) reviewer
 - *2024.10* Outstanding League Member, Beihang University
 - *2024.08* [ICLR 2025](https://iclr.cc/Conferences/2025) reviewer
@@ -170,6 +171,8 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Zhexin Zhang (Tsinghua University)
 - Pei Ke (Tsinghua University)
 - Shiyao Cui (Tsinghua University)
+- Minlie Huang (Tsinghua University)
+- Lei Sha (Beihang University)
 -->
 
 # 👨🏻‍💻 Undergraduate Research Assistant
