@@ -75,7 +75,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">AAAI 2025</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
+<div><div class="badge">arxiv release</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
