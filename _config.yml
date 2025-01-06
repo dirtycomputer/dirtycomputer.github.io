@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyuan Wang(王新元)"
-description              : "Applying for 25Fall PhD"
+description              : "Applying for 25Fall PhD/Job"
 repository               : "dirtycomputer/dirtycomputer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "xinyuan-wang-b3419a288"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
