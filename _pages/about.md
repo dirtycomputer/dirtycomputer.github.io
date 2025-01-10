@@ -143,7 +143,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 -->
 
 # 💻 Internships
-
+- *2025.01 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China. He was a research intern in Center for Safe & Trustworthy AI.
 - *2024.04 - present*, [Tsinghua University](https://www.tsinghua.edu.cn/), China. He was a research intern in Professor [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml)'s group at Tsinghua University, focusing on the safety issues of Multimodal Large Language Models (LLMs).
 - *2023.02 - 2023.08*, [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn/), China. He was a research intern in the Cognitive Large-Scale Model Group mentored by [Xin Jiang](https://scholar.google.com/citations?user=3mqJwa8AAAAJ&hl=zh-CN) and [Yequan Wang](https://www.wangyequan.com/).
 - *2022.09 - 2023.02*, Key Laboratory of Mathematics, Informatics and Behavioral Semantics, Ministry of Education, Beijing, China.
