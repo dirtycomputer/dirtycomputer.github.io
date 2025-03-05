@@ -118,6 +118,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.03* [ICME 2025](https://2025.ieeeicme.org/) reviewer
 - *2025.03* [NeurIPS 2025](https://neurips.cc/Conferences/2025) reviewer
 - *2024.12* [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) student scholarship
 - *2024.12* [ICML 2025](https://icml.cc/Conferences/2025) reviewer
