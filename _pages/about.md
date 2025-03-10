@@ -51,6 +51,7 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 
 Zhexin Zhang, Leqi Lei, Junxiao Yang, Xijie Huang, Yida Lu, Shiyao Cui, Renmiao Chen, Qinglin Zhang, **Xinyuan Wang**, Hao Wang, Hao Li, Xianqi Lei, Chengwei Pan, Lei Sha, Hongning Wang, Minlie Huang
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">arxiv release</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
