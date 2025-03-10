@@ -49,7 +49,7 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 
 [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/pdf/2502.16776)
 
-Zhexin Zhang, Leqi Lei, Junxiao Yang, Xijie Huang, Yida Lu, Shiyao Cui, Renmiao Chen, Qinglin Zhang, **Xinyuan Wang**, Hao Wang, Hao Li, Xianqi Lei, Chengwei Pan, Lei Sha, Hongning Wang, Minlie Huang
+[Zhexin Zhang](https://scholar.google.com/citations?user=I-Cn8gkAAAAJ&hl=zh-CN), [Leqi Lei](https://scholar.google.com/citations?user=j65DJIEAAAAJ&hl=zh-CN), [Junxiao Yang](https://scholar.google.com/citations?user=8Zu6HocAAAAJ&hl=zh-CN), [Xijie Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), [Yida Lu](https://openreview.net/profile?id=~Yida_Lu1), [Shiyao Cui](https://scholar.google.com/citations?user=sVXAK-kAAAAJ&hl=zh-CN), [Renmiao Chen](https://openreview.net/profile?id=~Renmiao_Chen1), Qinglin Zhang, **Xinyuan Wang**, Hao Wang, [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ), Xianqi Lei, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Hongning Wang](https://scholar.google.com/citations?hl=en&user=qkdvKNoAAAAJ&view_op=list_works&sortby=pubdate), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
 </div>
 </div>
 
@@ -60,7 +60,7 @@ Zhexin Zhang, Leqi Lei, Junxiao Yang, Xijie Huang, Yida Lu, Shiyao Cui, Renmiao 
 
 [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](https://arxiv.org/abs/2410.09804)
 
-**Xinyuan Wang**, Victor Shea-Jay Huang, Renmiao Chen, Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+**Xinyuan Wang**, [Victor Shea-Jay Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), Renmiao Chen, Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
 </div>
 </div>
 
