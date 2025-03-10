@@ -43,7 +43,7 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/BlackDAN.png' alt="sym" width="80%"></div>
+<div><div class="badge">technical report</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,7 +54,7 @@ Zhexin Zhang, Leqi Lei, Junxiao Yang, Xijie Huang, Yida Lu, Shiyao Cui, Renmiao 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
+<div><div class="badge">arxiv release</div><img src='../images/projects/BlackDAN.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
