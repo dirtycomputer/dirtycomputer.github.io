@@ -47,6 +47,16 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 </div>
 <div class='paper-box-text' markdown="1">
 
+[AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/pdf/2502.16776)
+
+Zhexin Zhang, Leqi Lei, Junxiao Yang, Xijie Huang, Yida Lu, Shiyao Cui, Renmiao Chen, Qinglin Zhang, **Xinyuan Wang**, Hao Wang, Hao Li, Xianqi Lei, Chengwei Pan, Lei Sha, Hongning Wang, Minlie Huang
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
 [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](https://arxiv.org/abs/2410.09804)
 
 **Xinyuan Wang**, Victor Shea-Jay Huang, Renmiao Chen, Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
@@ -166,14 +176,14 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - Renmiao Chen (Tsinghua University)
 - Zekun Wang (Beihang University)
 - Jiancheng Yang (EPFL)
+- Leqi Lei (Tsinghua University) 
+- Zhexin Zhang (Tsinghua University)
 
 <!-- 
 - Wenhui Tan (Renmin Univeristy of China)
 - Mengqun Jin (Tsinghua University)
-- Leqi Lei (Tsinghua University) 
 - Zhiru Wang (Beihang University)
 - Shiyun Xie (Beihang University)
-- Zhexin Zhang (Tsinghua University)
 - Pei Ke (Tsinghua University)
 - Shiyao Cui (Tsinghua University)
 - Minlie Huang (Tsinghua University)
