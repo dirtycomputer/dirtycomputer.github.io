@@ -43,6 +43,17 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">technical report</div><img src='../images/projects/DiffAtlas.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion](https://arxiv.org/pdf/2503.06748)
+
+Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong Guo, **Xinyuan Wang**, Wei Peng, [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">technical report</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
