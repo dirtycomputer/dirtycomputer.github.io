@@ -43,6 +43,17 @@ He is currently engaged in academic collaborations with THU, PKU, EPFL, NUS, HKU
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/DiffusionAttacker.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://arxiv.org/abs/2412.17522)
+
+Hao Wang, Hao Li, Junda Zhu, **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">arxiv release</div><img src='../images/projects/DiffAtlas.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
