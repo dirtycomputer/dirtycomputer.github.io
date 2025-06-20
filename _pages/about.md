@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I am currently pursuing my Master’s degree at Beihang University under the supervision of Professor [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), with a research focus on advancing AI applications in healthcare.
+I’m an incoming PhD student in the Department of Computer Science at Fudan University, advised by Professor [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en), with a research focus on multimodal large models.
 
 My research interests also include computer vision, large language models, and AI safety. I have published several papers at top international AI conferences, with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am actively engaged in academic collaborations with institutions including Tsinghua University (CoAI Lab, Professor [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)), EPFL (Professor [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en) and [Jiancheng Yang](https://scholar.google.com/citations?user=EHkDyiUAAAAJ)), Peking University, NUS, NTU, HKU, among others. I am looking for highly self-motivated students with a strong background and interest in my research areas. If you are interested in working with me, please send your CV or homepage via buaa42wxy@gmail.com.
+
 
 
 # 🔥 News
@@ -169,7 +169,8 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - *2022* Rank 14/277 in Northeastern University
 
 # 📖 Educations
-- *2022.09 - present*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
+- *2025.09 - *, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
+- *2022.09 - 2025.06*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
 - *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
