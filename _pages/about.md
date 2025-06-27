@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m an incoming PhD student in the Department of Computer Science at Fudan University, advised by Professor [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en), with a research focus on multimodal large models.
+I’m an incoming PhD student in the Department of Computer Science at Fudan University, advised by Professor [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en), with a research focus on multimodal large language models.
 
-My research interests also include computer vision, large language models, and AI safety. I have published several papers at top international AI conferences, with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests also include computer vision, large language models, and AI safety. I have published several papers at international AI conferences, with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am actively engaged in academic collaborations with institutions including Tsinghua University (CoAI Lab, Professor [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)), EPFL (Professor [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en) and [Jiancheng Yang](https://scholar.google.com/citations?user=EHkDyiUAAAAJ)), Peking University, NUS, NTU, HKU, among others. I am looking for highly self-motivated students with a strong background and interest in my research areas. If you are interested in working with me, please send your CV or homepage via buaa42wxy@gmail.com.
 
 
 
 # 🔥 News
+
+- *2025.06*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025](https://arxiv.org/pdf/2503.06748).
 - *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted by ICLR 2025 (Spotlight) Top 0.1%](https://arxiv.org/abs/2403.14066).
 - *2024.12*: &nbsp;🎉🎉 AISafetyLab github repo released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
 - *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted by AAAI 2025](https://arxiv.org/abs/2405.20775).
@@ -54,7 +56,7 @@ Hao Wang, Hao Li, Junda Zhu, **Xinyuan Wang**, [Chengwei Pan](https://scholar.go
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/DiffAtlas.png' alt="sym" width="80%"></div>
+<div><div class="badge">MICCAI 2025</div><img src='../images/projects/DiffAtlas.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
