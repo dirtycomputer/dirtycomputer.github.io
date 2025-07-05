@@ -173,7 +173,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - *2022* Rank 14/277 in Northeastern University
 
 # 📖 Educations
-- *2025.09 - *, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
+- *2025.09 - present*, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
 - *2022.09 - 2025.06*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
 - *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
