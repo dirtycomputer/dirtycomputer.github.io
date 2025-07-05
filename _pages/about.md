@@ -154,6 +154,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.06* Outstanding Graduate, Beihang University
 - *2025.03* [ICME 2025](https://2025.ieeeicme.org/) reviewer
 - *2025.03* [NeurIPS 2025](https://neurips.cc/Conferences/2025) reviewer
 - *2024.12* [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) student scholarship
@@ -163,7 +164,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 - *2024.08* [ICLR 2025](https://iclr.cc/Conferences/2025) reviewer
 - *2024.05* [Neurips 2024](https://neurips.cc/Conferences/2024) reviewer
 - *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
-- *2024.04* Outstanding graduate student, Beihang University
+- *2024.04* Outstanding Postgraduate Student, Beihang University
 - *2023.11* [Student Union President](https://iai.buaa.edu.cn/info/1011/2924.htm), Institute of Artificial Intelligence, Beihang University
 - *2023.10* Outstanding Student Cadre, Beihang University
 - *2023.10* 1st-Class Scholarship, Beihang University
@@ -195,7 +196,7 @@ Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
 
 - Hongming Dai (National University of Singapore)
 - Xingrun Xing (Beijing Academy of Artificial Intelligence, Chinese Academy of Sciences)
-- Yinghao Zhu (Beihang Univeristy)
+- Yinghao Zhu (Beihang Univeristy -> The University of Hong Kong)
 - Gangming Zhao (The University of Hong Kong)
 - Hantao Zhang (University of Science and Technology of China -> EPFL)
 - Hao Wang (Beihang Univeristy)
