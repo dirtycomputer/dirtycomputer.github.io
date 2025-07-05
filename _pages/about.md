@@ -29,6 +29,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 - *2025.06*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025](https://arxiv.org/pdf/2503.06748).
 - *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted by ICLR 2025 (Spotlight) Top 0.1%](https://arxiv.org/abs/2403.14066).
+- *2025.01*: &nbsp;🎉🎉 Lefusion github repo released <a href='https://github.com/M3DV/LeFusion'><img src="https://img.shields.io/github/stars/M3DV/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
 - *2024.12*: &nbsp;🎉🎉 AISafetyLab github repo released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
 - *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted by AAAI 2025](https://arxiv.org/abs/2405.20775).
 - *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) dataset 3MAD-Tiny-1K released [![3MAD-Tiny-1K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) 3MAD-66K released [![3MAD-66K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K)
