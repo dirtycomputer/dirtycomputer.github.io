@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyuan Wang(王新元)"
-description              : "Applying for 25Fall PhD/Job"
+description              : ""
 repository               : "dirtycomputer/dirtycomputer.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyuan Wang\n(王新元)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beihang University"
-  location         : "Beijing, China"
+  bio              : "Fudan University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jQSagnIAAAAJ"
