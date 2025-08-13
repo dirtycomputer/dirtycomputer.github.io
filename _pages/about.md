@@ -58,7 +58,7 @@ Hao Wang, Hao Li, Junda Zhu, **Xinyuan Wang**, [Chengwei Pan](https://scholar.go
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">MICCAI 2025</div><img src='../images/projects/DiffAtlas.png' alt="sym" width="80%"></div>
+<div><div class="badge">MICCAI 2025 Spotlight</div><img src='../images/projects/DiffAtlas.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
