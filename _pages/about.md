@@ -27,7 +27,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 # 🔥 News
 
-- *2025.06*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025](https://arxiv.org/pdf/2503.06748).
+- *2025.06*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/pdf/2503.06748).
 - *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted by ICLR 2025 (Spotlight) Top 0.1%](https://arxiv.org/abs/2403.14066).
 - *2025.01*: &nbsp;🎉🎉 Lefusion github repo released <a href='https://github.com/M3DV/LeFusion'><img src="https://img.shields.io/github/stars/M3DV/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
 - *2024.12*: &nbsp;🎉🎉 AISafetyLab github repo released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
