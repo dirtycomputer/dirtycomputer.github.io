@@ -27,7 +27,8 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 # 🔥 News
 
-- *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/pdf/2503.06748).
+- *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted by EMNLP 2025](https://arxiv.org/abs/2412.17522).
+- *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
 - *2025.06*: &nbsp;🎉🎉 DiffAtlas github repo released <a href='https://github.com/M3DV/DiffAtlas'><img src="https://img.shields.io/github/stars/M3DV/DiffAtlas"></a>. 
 - *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted by ICLR 2025 (Spotlight) Top 0.1%](https://arxiv.org/abs/2403.14066).
 - *2025.01*: &nbsp;🎉🎉 Lefusion github repo released <a href='https://github.com/M3DV/LeFusion'><img src="https://img.shields.io/github/stars/M3DV/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
@@ -37,17 +38,17 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 - *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) github repo released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
 
-- *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/pdf/2403.05246.pdf) github repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
+- *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/abs/2403.05246.pdf) github repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
 
 - *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted by AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
-- *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted by AAAI 2024](https://arxiv.org/pdf/2312.08937.pdf) github repo released <a href='https://github.com/Xingrun-Xing/BiPFT'><img src="https://img.shields.io/github/stars/Xingrun-Xing/BiPFT"></a>.
+- *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted by AAAI 2024](https://arxiv.org/abs/2312.08937.pdf) github repo released <a href='https://github.com/Xingrun-Xing/BiPFT'><img src="https://img.shields.io/github/stars/Xingrun-Xing/BiPFT"></a>.
 - *2023.10*: &nbsp;🎉🎉 [Fseg was accepted by BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
 - *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/DiffusionAttacker.png' alt="sym" width="80%"></div>
+<div><div class="badge">EMNLP 2025</div><img src='../images/projects/DiffusionAttacker.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +63,7 @@ Hao Wang, Hao Li, Junda Zhu, **Xinyuan Wang**, [Chengwei Pan](https://scholar.go
 </div>
 <div class='paper-box-text' markdown="1">
 
-[DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion](https://arxiv.org/pdf/2503.06748)
+[DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion](https://arxiv.org/abs/2503.06748)
 
 Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong Guo, **Xinyuan Wang**, Wei Peng, [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
 </div>
@@ -73,7 +74,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong G
 </div>
 <div class='paper-box-text' markdown="1">
 
-[AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/pdf/2502.16776)
+[AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776)
 
 [Zhexin Zhang](https://scholar.google.com/citations?user=I-Cn8gkAAAAJ&hl=zh-CN), [Leqi Lei](https://scholar.google.com/citations?user=j65DJIEAAAAJ&hl=zh-CN), [Junxiao Yang](https://scholar.google.com/citations?user=8Zu6HocAAAAJ&hl=zh-CN), [Xijie Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), [Yida Lu](https://openreview.net/profile?id=~Yida_Lu1), [Shiyao Cui](https://scholar.google.com/citations?user=sVXAK-kAAAAJ&hl=zh-CN), [Renmiao Chen](https://openreview.net/profile?id=~Renmiao_Chen1), Qinglin Zhang, **Xinyuan Wang**, Hao Wang, [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ), Xianqi Lei, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Hongning Wang](https://scholar.google.com/citations?hl=en&user=qkdvKNoAAAAJ&view_op=list_works&sortby=pubdate), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
 </div>
@@ -118,7 +119,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong
 <div class='paper-box-text' markdown="1">
 
 [LightM-UNet: Mamba Assists in Lightweight
-UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
+UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246.pdf)
 
 
 [Weibin Liao](https://scholar.google.com/citations?hl=zh-CN&user=4yUXvDsAAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Yasha Wang](https://www.aminer.cn/profile/yasha-wang/542cc019dabfae4b91c24265), [Liantao Ma](http://scholar.pku.edu.cn/malt)
@@ -131,7 +132,7 @@ UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
 <div class='paper-box-text' markdown="1">
 
 [BiPFT: Binary Pre-trained Foundation Transformer with Low-rank Estimation of
-Binarization Residual Polynomials](https://arxiv.org/pdf/2312.08937.pdf)
+Binarization Residual Polynomials](https://arxiv.org/abs/2312.08937.pdf)
 
 [Xingrun Xing](https://scholar.google.com.hk/citations?hl=zh-CN&user=sEdxu1UAAAAJ&view_op=list_works&sortby=pubdate),[Li Du](https://scholar.google.com.hk/citations?user=ag1JoOEAAAAJ&hl=zh-CN), **Xinyuan Wang**, Xianlin Zeng, [Yequan Wang](https://www.wangyequan.com), [Zheng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=S2bil1cAAAAJ&view_op=list_works&sortby=pubdate), [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm)
 </div>
@@ -141,7 +142,7 @@ Binarization Residual Polynomials](https://arxiv.org/pdf/2312.08937.pdf)
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Frequency Domain Learning in 3D
-Vessel Segmentation](https://arxiv.org/pdf/2401.06224.pdf)
+Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Hongming Dai](https://www.linkedin.com/in/hongming-dai-76b936176/), [Gangming Zhao](https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en), [Jinpeng Li](https://scholar.google.com/citations?user=hzEaITAAAAAJ&hl=zh-CN), Xiao Zhang, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
 </div>
