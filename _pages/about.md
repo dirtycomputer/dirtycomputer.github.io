@@ -157,6 +157,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 # 🎖 Honors, Awards, and Service
 
+- *2025.09* [ICLR 2026](https://iclr.cc/Conferences/2026) reviewer
 - *2025.07* [AAAI 2026](https://aaai.org/Conferences/AAAI-26/) Program Committee member
 - *2025.06* Outstanding Graduate, Beihang University
 - *2025.03* [ICME 2025](https://2025.ieeeicme.org/) reviewer
