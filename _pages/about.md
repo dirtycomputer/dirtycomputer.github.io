@@ -230,13 +230,13 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - Jiaze Song (Beihang University -> Peking University)
 - Yuhan Duan (Beihang University -> Beihang University) 
 - Jiawen Xi (Beihang University -> Beihang University) 
-- Xijie Huang (Beihang University -> present) 
-- Xinhui Huang (Beihang University -> present) 
-- Chenxiao Yue (Beihang University -> Tsinghua University) 
-- Rong Fan (Beihang University -> present) 
-- Wenjie Pan (Beihang University -> present) 
+- Xijie Huang (Beihang University -> The Chinese University of Hong Kong) 
 - Yuhe Liu (Beihang University -> Tsinghua University) 
-- Yizhe Wang (Beihang University -> present) 
+- Chenxiao Yue (Beihang University -> Tsinghua University) 
+<!-- - Xinhui Huang (Beihang University -> present)  -->
+<!-- - Rong Fan (Beihang University -> present)  -->
+<!-- - Wenjie Pan (Beihang University -> present)  -->
+<!-- - Yizhe Wang (Beihang University -> present)  -->
 
 # Contact
 
