@@ -27,7 +27,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 # 🔥 News
 
-- *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) released. Code available at <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
+- *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) github repo released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
 - *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted by EMNLP 2025](https://arxiv.org/abs/2412.17522).
 - *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
 - *2025.06*: &nbsp;🎉🎉 DiffAtlas github repo released <a href='https://github.com/M3DV/DiffAtlas'><img src="https://img.shields.io/github/stars/M3DV/DiffAtlas"></a>. 
@@ -66,7 +66,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 [DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://arxiv.org/abs/2412.17522)
 
-Hao Wang, Hao Li, Junda Zhu, **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN)
+[Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ&hl=en), [Junda Zhu](https://scholar.google.com/citations?user=NrsJYwkAAAAJ&hl=zh-CN), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN)
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Hao Wang, Hao Li, Junda Zhu, **Xinyuan Wang**, [Chengwei Pan](https://scholar.go
 
 [DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion](https://arxiv.org/abs/2503.06748)
 
-Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong Guo, **Xinyuan Wang**, Wei Peng, [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+[Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong Guo, **Xinyuan Wang**, [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=zh-CN), [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
 </div>
 </div>
 
@@ -88,7 +88,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong G
 
 [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776)
 
-[Zhexin Zhang](https://scholar.google.com/citations?user=I-Cn8gkAAAAJ&hl=zh-CN), [Leqi Lei](https://scholar.google.com/citations?user=j65DJIEAAAAJ&hl=zh-CN), [Junxiao Yang](https://scholar.google.com/citations?user=8Zu6HocAAAAJ&hl=zh-CN), [Xijie Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), [Yida Lu](https://openreview.net/profile?id=~Yida_Lu1), [Shiyao Cui](https://scholar.google.com/citations?user=sVXAK-kAAAAJ&hl=zh-CN), [Renmiao Chen](https://openreview.net/profile?id=~Renmiao_Chen1), Qinglin Zhang, **Xinyuan Wang**, Hao Wang, [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ), Xianqi Lei, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Hongning Wang](https://scholar.google.com/citations?hl=en&user=qkdvKNoAAAAJ&view_op=list_works&sortby=pubdate), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+[Zhexin Zhang](https://scholar.google.com/citations?user=I-Cn8gkAAAAJ&hl=zh-CN), [Leqi Lei](https://scholar.google.com/citations?user=j65DJIEAAAAJ&hl=zh-CN), [Junxiao Yang](https://scholar.google.com/citations?user=8Zu6HocAAAAJ&hl=zh-CN), [Xijie Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), [Yida Lu](https://openreview.net/profile?id=~Yida_Lu1), [Shiyao Cui](https://scholar.google.com/citations?user=sVXAK-kAAAAJ&hl=zh-CN), [Renmiao Chen](https://openreview.net/profile?id=~Renmiao_Chen1), Qinglin Zhang, **Xinyuan Wang**, [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ&hl=en), Xianqi Lei, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Hongning Wang](https://scholar.google.com/citations?hl=en&user=qkdvKNoAAAAJ&view_op=list_works&sortby=pubdate), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
 </div>
 </div>
 
@@ -99,7 +99,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong G
 
 [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](https://arxiv.org/abs/2410.09804)
 
-**Xinyuan Wang**, [Victor Shea-Jay Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), Renmiao Chen, Hao Wang, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+**Xinyuan Wang**, [Victor Shea-Jay Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), Renmiao Chen, [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
 </div>
 </div>
 
@@ -110,7 +110,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong G
 
 [LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models](https://arxiv.org/abs/2403.14066)
 
-Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong Wan](https://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm), **Xinyuan Wang**, Wei Peng, [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+[Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong Wan](https://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm), **Xinyuan Wang**, [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=zh-CN), [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
 </div>
 </div>
 
@@ -121,7 +121,7 @@ Hantao Zhang, Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong
 
 [Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)
 
-[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://openreview.net/profile?id=~Hantao_Zhang2), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), Hao Wang, [Hao Liang](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ&view_op=list_works&sortby=pubdate), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
+[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Liang](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ&view_op=list_works&sortby=pubdate), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
 </div>
 </div>
 
