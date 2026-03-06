@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m an incoming PhD student in the Department of Computer Science at Fudan University, advised by Professor [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en), with a research focus on multimodal large language models.
+I’m a PhD student in the Department of Computer Science at Fudan University (since September 2025), advised by Professor [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en), with a research focus on multimodal large language models.
 
 My research interests also include computer vision, large language models, and AI safety. I have published several papers at international AI conferences, with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -27,6 +27,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 # 🔥 News
 
+- *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) released. Code available at <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
 - *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted by EMNLP 2025](https://arxiv.org/abs/2412.17522).
 - *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
 - *2025.06*: &nbsp;🎉🎉 DiffAtlas github repo released <a href='https://github.com/M3DV/DiffAtlas'><img src="https://img.shields.io/github/stars/M3DV/DiffAtlas"></a>. 
@@ -46,6 +47,17 @@ I am actively engaged in academic collaborations with institutions including Tsi
 - *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">arxiv release</div><img src='../images/projects/BandPO.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](https://arxiv.org/abs/2603.04918)
+
+[Yuan Li](https://scholar.google.com/citations?user=UmKOAF0AAAAJ), [Bo Wang](https://scholar.google.com/citations?user=Q8xj86EAAAAJ&hl=zh-CN), [Yufei Gao](https://scholar.google.com/citations?user=yUzpCD4AAAAJ&hl=zh-CN), Yuqian Yao, [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ), [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">EMNLP 2025</div><img src='../images/projects/DiffusionAttacker.png' alt="sym" width="80%"></div>
@@ -157,6 +169,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 # 🎖 Honors, Awards, and Service
 
+- *2026.02* [ACL ARR 2026](https://2026.aclweb.org/) reviewer
 - *2025.09* [ICLR 2026](https://iclr.cc/Conferences/2026) reviewer
 - *2025.07* [AAAI 2026](https://aaai.org/Conferences/AAAI-26/) Program Committee member
 - *2025.06* Outstanding Graduate, Beihang University
@@ -211,6 +224,10 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - Jiancheng Yang (EPFL)
 - Leqi Lei (Tsinghua University) 
 - Zhexin Zhang (Tsinghua University)
+- Zhangyue Yin (Fudan University)
+- Bo Wang (Fudan University)
+- Yuan Li (Fudan University)
+- Luozhijie Jin (Fudan University)
 
 <!-- 
 - Wenhui Tan (Renmin Univeristy of China)
