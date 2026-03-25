@@ -197,7 +197,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
 # 💬 Invited Talks
-- *2026.03*, Shanghai, China. Guest speaker at iLearn Techtube, [HSBC Shanghai](https://www.hsbc.com.cn/), on the topic of "AI Agent: Practical and Deployable Intelligent Agent Design", together with [Shoujing Z](https://www.linkedin.com/in/shoujing-z-114a4b212/) and [Torres Yao](https://www.linkedin.com/in/torresyao/).
+- *2026.03*, Shanghai, China. Guest speaker at iLearn Techtube, [HSBC Shanghai](https://www.hsbc.com.cn/), on the topic of "AI Agent: Practical and Deployable Intelligent Agent Design", together with [Shoujing (Sherwin) Zhu](https://www.linkedin.com/in/shoujing-z-114a4b212/) and [Torres (Haorong) Yao](https://www.linkedin.com/in/torresyao/).
 - *2023.12*, Istanbul, Turkey. He delivered a [keynote speech](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/documents/BIBM2023-Program-1208.pdf) on the topic of "Leveraging Frequency Domain Learning in 3D Coronary Segmentation" at the BIBM 2023 conference.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
 -->
