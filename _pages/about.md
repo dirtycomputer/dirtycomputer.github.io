@@ -27,6 +27,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉🎉 [BandPO was accepted by ICML 2026](https://arxiv.org/abs/2603.04918).
 - *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) github repo released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
 - *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted by EMNLP 2025](https://arxiv.org/abs/2412.17522).
 - *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
@@ -49,7 +50,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/BandPO.png' alt="sym" width="80%"></div>
+<div><div class="badge">ICML 2026 Accepted</div><img src='../images/projects/BandPO.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
