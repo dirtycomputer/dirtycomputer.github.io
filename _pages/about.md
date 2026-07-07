@@ -57,7 +57,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 [TIKE: Efficient KL Divergence Estimation via Truncated Top-K Integration for Large Language Models](https://aclanthology.org/2026.acl-long.405/)
 
-[**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Luozhijie Jin](https://scholar.google.com/citations?user=Fudan_LuozhijieJin), [Bo Wang](https://scholar.google.com/citations?user=Q8xj86EAAAAJ&hl=zh-CN), [Yuan Li](https://scholar.google.com/citations?user=UmKOAF0AAAAJ), [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ), [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)
+[**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Luozhijie Jin](https://scholar.google.com/citations?user=0Au6-0IAAAAJ&hl=zh-CN), [Bo Wang](https://scholar.google.com/citations?user=Q8xj86EAAAAJ&hl=zh-CN), [Yuan Li](https://scholar.google.com/citations?user=UmKOAF0AAAAJ), [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ), [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)
 </div>
 </div>
 
@@ -182,6 +182,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 # 🎖 Honors, Awards, and Service
 
+- *2026.07* Teaching assistant at the [SII Summer School on Reinforcement Learning 2026](https://www.sii.edu.cn/2026/0530/c60a1078/page.htm), instructed by [Richard S. Sutton](https://incompleteideas.net/) (2024 ACM A.M. Turing Award laureate), Shanghai Innovation Institute.
 - *2026.02* [ACL ARR 2026](https://2026.aclweb.org/) reviewer
 - *2025.09* [ICLR 2026](https://iclr.cc/Conferences/2026) reviewer
 - *2025.07* [AAAI 2026](https://aaai.org/Conferences/AAAI-26/) Program Committee member
