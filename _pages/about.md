@@ -27,6 +27,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉🎉 [TIKE was accepted by ACL 2026 main (Long Paper)](https://aclanthology.org/2026.acl-long.405/).
 - *2026.05*: &nbsp;🎉🎉 [BandPO was accepted by ICML 2026](https://arxiv.org/abs/2603.04918).
 - *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) github repo released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
 - *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted by EMNLP 2025](https://arxiv.org/abs/2412.17522).
@@ -48,6 +49,17 @@ I am actively engaged in academic collaborations with institutions including Tsi
 - *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">ACL 2026 main (Long Paper)</div><img src='../images/projects/TIKE.png' alt="sym" width="80%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[TIKE: Efficient KL Divergence Estimation via Truncated Top-K Integration for Large Language Models](https://aclanthology.org/2026.acl-long.405/)
+
+[**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Luozhijie Jin](https://scholar.google.com/citations?user=Fudan_LuozhijieJin), [Bo Wang](https://scholar.google.com/citations?user=Q8xj86EAAAAJ&hl=zh-CN), [Yuan Li](https://scholar.google.com/citations?user=UmKOAF0AAAAJ), [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ), [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'>
 <div><div class="badge">ICML 2026 Accepted</div><img src='../images/projects/BandPO.png' alt="sym" width="80%"></div>
