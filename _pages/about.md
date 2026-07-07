@@ -32,7 +32,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 - *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) github repo released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
 - *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted by EMNLP 2025](https://arxiv.org/abs/2412.17522).
 - *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
-- *2025.06*: &nbsp;🎉🎉 DiffAtlas github repo released <a href='https://github.com/M3DV/DiffAtlas'><img src="https://img.shields.io/github/stars/M3DV/DiffAtlas"></a>. 
+- *2025.06*: &nbsp;🎉🎉 DiffAtlas github repo released <a href='https://github.com/HINTLab/DiffAtlas'><img src="https://img.shields.io/github/stars/HINTLab/DiffAtlas"></a>. 
 - *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted by ICLR 2025 (Spotlight) Top 0.1%](https://arxiv.org/abs/2403.14066).
 - *2025.01*: &nbsp;🎉🎉 Lefusion github repo released <a href='https://github.com/HINTLab/LeFusion'><img src="https://img.shields.io/github/stars/HINTLab/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
 - *2024.12*: &nbsp;🎉🎉 AISafetyLab github repo released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
