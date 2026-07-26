@@ -182,7 +182,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 # 🎖 Honors, Awards, and Service
 
-- *2026.07* Teaching assistant at the [SII Summer School on Reinforcement Learning 2026](https://www.sii.edu.cn/2026/0530/c60a1078/page.htm), instructed by [Richard S. Sutton](https://incompleteideas.net/) (2024 ACM A.M. Turing Award laureate), Shanghai Innovation Institute.
+- *2026.07* Teaching assistant at the [SII Summer School on Reinforcement Learning 2026](https://www.sii.edu.cn/2026/0530/c60a1078/page.htm), instructed by [Richard S. Sutton](https://incompleteideas.net/) (2024 ACM A.M. Turing Award laureate), jointly organized by [Shanghai Innovation Institute](https://www.sii.edu.cn/), [Openmind Research Institute](https://www.openmindresearch.org/), and [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). [[Certificate]](/assets/files/summer_school_TA.pdf)
 - *2026.02* [ACL ARR 2026](https://2026.aclweb.org/) reviewer
 - *2025.09* [ICLR 2026](https://iclr.cc/Conferences/2026) reviewer
 - *2025.07* [AAAI 2026](https://aaai.org/Conferences/AAAI-26/) Program Committee member
@@ -206,8 +206,9 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 # 📖 Educations
 - *2025.09 - present*, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
+- *Fall 2025*, Introduction to Artificial Intelligence, Teaching Assistant, Fudan University ([Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en))
 - *2022.09 - 2025.06*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
-- *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University
+- *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University ([Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en))
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
 # 💬 Invited Talks
