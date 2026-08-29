@@ -182,6 +182,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 # 🎖 Honors, Awards, and Service
 
+- *2026.08* [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/) reviewer
 - *2026.08* [ICLR 2027](https://iclr.cc/Conferences/2027) reviewer
 - *2026.07* Teaching assistant at the [SII Summer School on Reinforcement Learning 2026](https://www.sii.edu.cn/2026/0530/c60a1078/page.htm), instructed by [Richard S. Sutton](https://incompleteideas.net/) (2024 ACM A.M. Turing Award laureate), jointly organized by [Shanghai Innovation Institute](https://www.sii.edu.cn/), [Openmind Research Institute](https://www.openmindresearch.org/), and [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). [[Certificate]](/assets/files/summer_school_TA.pdf)
 - *2026.02* [ACL ARR 2026](https://2026.aclweb.org/) reviewer
