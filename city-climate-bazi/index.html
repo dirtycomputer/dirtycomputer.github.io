@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>城市气候与八字适配可视化</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--text:#18212f;--muted:#667085;--line:#e4e7ec;--accent:#315b7d;--accent2:#4f7f6c;--warn:#9b6a2f;--bad:#9c4545;--ok:#2f6f57;--chip:#eef3f7}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.55 system-ui,-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}.wrap{max-width:1280px;margin:auto;padding:24px}.hero{display:grid;grid-template-columns:1.5fr 1fr;gap:16px;align-items:stretch}.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px}.hero h1{margin:0 0 8px;font-size:28px}.sub{color:var(--muted)}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.chip{background:var(--chip);border-radius:999px;padding:6px 10px;font-size:12px}.good{color:var(--ok);font-weight:700}.warn{color:var(--warn);font-weight:700}.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.metric{padding:12px;border:1px solid var(--line);border-radius:12px}.metric b{font-size:22px;display:block}.section{margin-top:18px}.section h2{font-size:20px;margin:0 0 10px}.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:12px}.toolbar select,.toolbar button{min-height:40px;border:1px solid var(--line);border-radius:10px;background:white;padding:0 10px;color:var(--text)}.toolbar button{cursor:pointer}.toolbar button.active{background:var(--accent);color:white;border-color:var(--accent)}.rank-list{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.rank-row{display:grid;grid-template-columns:42px 1fr 70px;gap:10px;align-items:center;border:1px solid var(--line);border-radius:12px;padding:10px}.rank-num{font-weight:800;font-size:18px}.bar{height:8px;border-radius:999px;background:#edf0f3;overflow:hidden;margin-top:6px}.bar>i{display:block;height:100%;background:var(--accent2)}.small{font-size:12px;color:var(--muted)}.scroll{overflow:auto;border:1px solid var(--line);border-radius:12px}.heat{border-collapse:separate;border-spacing:0;width:100%;min-width:1000px}.heat th,.heat td{padding:7px 8px;text-align:center;border-right:1px solid #ffffff55;border-bottom:1px solid #ffffff55;white-space:nowrap}.heat th{position:sticky;top:0;background:#f7f8fa;z-index:2}.heat th:first-child,.heat td:first-child{position:sticky;left:0;background:#fff;z-index:1;text-align:left;font-weight:700}.climate-table{border-collapse:collapse;width:100%;min-width:1050px}.climate-table th,.climate-table td{border-bottom:1px solid var(--line);padding:9px 10px;text-align:right}.climate-table th:first-child,.climate-table td:first-child{text-align:left;position:sticky;left:0;background:#fff}.tag{display:inline-block;border-radius:999px;padding:3px 8px;background:#f2f4f7;font-size:12px}.tag.a{background:#e7f4ed;color:#276246}.tag.b{background:#fff2d9;color:#7a5525}.tag.c{background:#f7e8e8;color:#8a3f3f}.compare-grid{display:grid;grid-template-columns:300px 1fr;gap:14px}.checks{display:grid;grid-template-columns:repeat(2,1fr);gap:6px}.checks label{display:flex;align-items:center;gap:7px;border:1px solid var(--line);border-radius:9px;padding:8px}.chart-wrap{overflow:auto}.chart{width:100%;min-width:720px;height:350px}.legend{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px}.legend span{display:flex;align-items:center;gap:6px}.dot{width:10px;height:10px;border-radius:50%}.audit{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.audit-item{border:1px solid var(--line);border-radius:12px;padding:12px}.audit-item h3{font-size:14px;margin:0 0 6px}.sources a{color:#315b7d;text-decoration:none}.sources li{margin:6px 0}.note{padding:12px;border-left:4px solid var(--accent);background:#f8fafc;border-radius:8px}.footer{color:var(--muted);font-size:12px;margin:18px 0 6px}.source-badge{font-size:11px;margin-left:6px;color:var(--muted)}
+@media(max-width:850px){.hero,.compare-grid{grid-template-columns:1fr}.grid4{grid-template-columns:repeat(2,1fr)}.rank-list,.audit{grid-template-columns:1fr}.wrap{padding:14px}.hero h1{font-size:23px}}
+@media(max-width:460px){.grid4{grid-template-columns:1fr}.checks{grid-template-columns:1fr}.card{padding:14px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <section class="hero">
+    <div class="card">
+      <h1>城市气候 × 工作生活 × 八字取象</h1>
+      <div class="sub">用于比较 14 个国内/国外候选城市。气候数据属于可核查事实；“八字适配”属于传统文化取象，只作为偏好框架，不是科学预测。</div>
+      <div class="chips"><span class="chip">日主：甲木</span><span class="chip">原局：庚辰・壬午・甲辰・丙寅</span><span class="chip good">第一用神：水</span><span class="chip good">喜神：木</span><span class="chip warn">火、土偏旺时需节制</span><span class="chip">城市逻辑：凉润 / 水木环境 + 职业平台</span></div>
+    </div>
+    <div class="card">
+      <div class="grid4">
+        <div class="metric"><span class="small">候选城市</span><b>14</b><span class="small">6 国内 + 8 国外</span></div>
+        <div class="metric"><span class="small">温度序列</span><b>168</b><span class="small">14 × 12 月</span></div>
+        <div class="metric"><span class="small">核查重点</span><b>7</b><span class="small">温/湿/雨/日照/热日/热夜/风</span></div>
+        <div class="metric"><span class="small">数据状态</span><b>已审计</b><span class="small">含修正与口径提示</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section card">
+    <h2>1. 城市综合排名</h2>
+    <div class="toolbar">
+      <label>区域 <select id="region"><option value="all">全部</option><option value="cn">国内</option><option value="intl">国外</option></select></label>
+      <label>目标 <select id="goal"><option value="general">综合工作 + 生活</option><option value="career">事业上限</option><option value="life">长期生活</option><option value="tech">科技 / 互联网</option><option value="finance">金融 / 咨询</option><option value="industry">制造 / 工程</option><option value="startup">创业</option><option value="settle">中后期定居</option></select></label>
+      <span class="small">总分为此前的传统命理环境 + 职业平台综合评分；专项目标以推荐序列为主，不伪造精确分数。</span>
+    </div>
+    <div id="rankList" class="rank-list"></div>
+  </section>
+
+  <section class="section card">
+    <h2>2. 全年月均气温热力图</h2>
+    <div class="small" style="margin-bottom:10px">单位：℃。伦敦已改用 Met Office Greenwich 1991–2020；都柏林已改用 Met Éireann Dublin Airport 1991–2020；温哥华与多伦多使用官方 1991–2020站点序列。</div>
+    <div class="scroll"><table id="heatTable" class="heat"></table></div>
+  </section>
+
+  <section class="section card">
+    <h2>3. 全年湿度、雨日、日照、热日、热夜与风感</h2>
+    <div class="toolbar">
+      <label>排序 <select id="metricSort"><option value="sun">日照时数</option><option value="rain">雨日</option><option value="rh">相对湿度</option><option value="hot">≥30℃热日</option><option value="hotnight">≥20℃热夜</option><option value="annual">年均温</option></select></label>
+      <button id="sortDir" type="button">降序</button>
+      <span class="small">湿度/热日/热夜/风感主要用于跨城体感比较，部分为 ERA5/二级资料近似值；站点官方值已单独标记。</span>
+    </div>
+    <div class="scroll"><table class="climate-table"><thead><tr><th>城市</th><th>年均温 ℃</th><th>年均 RH</th><th>雨日/年</th><th>日照 h/年</th><th>≥30℃</th><th>≥20℃热夜</th><th>风感</th><th>体感标签</th><th>数据级别</th></tr></thead><tbody id="metricBody"></tbody></table></div>
+    <div class="note" style="margin-top:12px"><b>关于“体感温度”：</b>页面没有把年均温和年均湿度硬算成一个伪精确的“全年体感温度”。Heat Index、Humidex、UTCI 都需要更细的逐月/逐日温度、湿度、风和辐射数据。这里用热日、热夜、湿度、风、冬季低温做体感压力代理，更稳妥。</div>
+  </section>
+
+  <section class="section card">
+    <h2>4. 城市对比器</h2>
+    <div class="compare-grid">
+      <div>
+        <div class="small" style="margin-bottom:8px">最多同时选择 4 个城市：</div>
+        <div id="checks" class="checks"></div>
+        <div id="compareSummary" style="margin-top:10px"></div>
+      </div>
+      <div class="chart-wrap"><svg id="tempChart" class="chart" viewBox="0 0 820 350" role="img" aria-label="所选城市月均气温折线图"></svg><div id="legend" class="legend"></div></div>
+    </div>
+  </section>
+
+  <section class="section card">
+    <h2>5. 从现实气候看：城市会重新分组</h2>
+    <div class="grid4">
+      <div class="metric"><b style="font-size:16px">全年温和</b><span class="small">奥克兰：季节反转但年温差小；西雅图/温哥华夏季温和。</span></div>
+      <div class="metric"><b style="font-size:16px">夏季凉爽</b><span class="small">西雅图、温哥华、阿姆斯特丹、都柏林、哥本哈根、伦敦。</span></div>
+      <div class="metric"><b style="font-size:16px">日照较强</b><span class="small">大连、青岛、西雅图、多伦多更突出；西欧部分城市冬季偏灰。</span></div>
+      <div class="metric"><b style="font-size:16px">湿热压力高</b><span class="small">杭州、苏州、上海、宁波；尤其热夜多时夜间恢复较差。</span></div>
+    </div>
+    <div class="note" style="margin-top:12px">传统命理里的“喜水”不能等同于“湿度越高、雨越多越好”。现实适居更应看：<b>凉而不严寒、润而不闷、冬季有光、风不过强、夏夜能降温</b>。</div>
+  </section>
+
+  <section class="section card">
+    <h2>6. 数据核查与修正记录</h2>
+    <div class="audit">
+      <div class="audit-item"><h3>✅ 温哥华 / 多伦多</h3><div class="small">前述月均温序列与 Environment and Climate Change Canada 1991–2020 官方站点表一致：Vancouver Harbour、Toronto City。</div></div>
+      <div class="audit-item"><h3>✅ 西雅图</h3><div class="small">使用 NOAA / NCEI 1991–2020 Seattle-Tacoma International Airport normals；前述温度序列与官方常值量级一致。</div></div>
+      <div class="audit-item"><h3>🔧 都柏林已修正</h3><div class="small">改用 Dublin Airport 1991–2020 官方均温：5.2, 5.3, 6.6, 8.2, 10.7, 13.3, 15.4, 15.1, 13.2, 10.4, 7.3, 5.5；年均约 9.7℃。先前表格的 10.1℃ 已不再使用。</div></div>
+      <div class="audit-item"><h3>🔧 伦敦已修正</h3><div class="small">改用 Met Office Greenwich Observatory 1991–2020，由月均最高/最低温求月均近似；官方年日照 1526.41h、≥1mm雨日 105.59天。先前“123雨日”不再作为官方站点值。</div></div>
+      <div class="audit-item"><h3>⚠️ 哥本哈根</h3><div class="small">DMI 当前说明 1991–2020 温度和降水气候正常值将在 2026 年底正式发布；因此页面保留参考序列，但标记为“临时/二级”，不冒充最终官方常值。</div></div>
+      <div class="audit-item"><h3>⚠️ 中国城市</h3><div class="small">中国气象局已发布 1991–2020 地面气候标准值数据集，并按 GB/T 34412—2017 与 WMO 方法进行质控。由于具体站点表在公开搜索结果中未完整展开，页面的六城月温仍标记为“参考序列”，避免把未逐站核对的数据写成完全官方值。</div></div>
+      <div class="audit-item"><h3>⚠️ 阿姆斯特丹 / 奥克兰</h3><div class="small">已核对 KNMI 与 NIWA 均有 1991–2020 官方气候正常值体系，但本页部分汇总值沿用此前参考序列；因此标记为 B 级，而不是 A 级官方逐项核验。</div></div>
+      <div class="audit-item"><h3>口径检查通过</h3><div class="small">14 城均有 12 个月温度；温度、湿度、雨日、日照、热日/热夜均通过数值范围检查。年均温按月日数加权复算；修正后的都柏林约 9.71℃、伦敦约 11.93℃。</div></div>
+    </div>
+  </section>
+
+  <section class="section card sources">
+    <h2>7. 主要数据源</h2>
+    <ul>
+      <li><a href="https://climate.weather.gc.ca/climate_normals/" target="_blank" rel="noreferrer">Environment and Climate Change Canada — 1991–2020 Climate Normals</a></li>
+      <li><a href="https://www.ncei.noaa.gov/access/us-climate-normals/" target="_blank" rel="noreferrer">NOAA / NCEI — U.S. Climate Normals 1991–2020</a></li>
+      <li><a href="https://www.met.ie/climate/30-year-averages" target="_blank" rel="noreferrer">Met Éireann — Ireland 1991–2020 Climate Averages</a></li>
+      <li><a href="https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages" target="_blank" rel="noreferrer">UK Met Office — Location-specific long-term averages</a></li>
+      <li><a href="https://www.knmi.nl/klimaat-viewer" target="_blank" rel="noreferrer">KNMI — Klimaatviewer 1991–2020</a></li>
+      <li><a href="https://www.dmi.dk/vejrarkiv/normaler-danmark" target="_blank" rel="noreferrer">DMI — Danish Climate Normals</a></li>
+      <li><a href="https://niwa.co.nz/climate-and-weather/climate-data-and-activities" target="_blank" rel="noreferrer">NIWA / Earth Sciences New Zealand — Climate normals</a></li>
+      <li><a href="https://k.data.cma.cn/" target="_blank" rel="noreferrer">中国气象局国家气象信息中心 — 中国地面气候标准值数据集</a></li>
+    </ul>
+  </section>
+  <div class="footer">版本：2026-09-27 数据审计版。建议把这页作为“候选城市筛选器”，最终迁居/求职决策还应加入收入、房价、签证、行业机会、空气质量、通勤与医疗等现实变量。</div>
+</div>
+<script>
+const cities=[
+{name:'苏州',region:'cn',score:9.3,annual:17.29,rh:77,rain:131,sun:1750,hot:57,hotnight:119,wind:'中',feel:'湿热夏季・冬季温和',grade:'B',temps:[4.5,6.4,10.7,16.3,21.5,24.9,29.1,28.8,24.7,19.5,13.4,7.0]},
+{name:'上海',region:'cn',score:9.1,annual:17.23,rh:78,rain:125,sun:1890,hot:53,hotnight:114,wind:'中偏强',feel:'湿热夏季・海风缓冲',grade:'B',temps:[5.0,6.5,10.3,15.7,20.9,24.4,28.8,28.5,24.8,19.7,13.9,7.5]},
+{name:'青岛',region:'cn',score:8.9,annual:13.36,rh:76,rain:78,sun:2490,hot:0,hotnight:95,wind:'强',feel:'夏季舒适・冬季风冷',grade:'B',temps:[0.2,2.1,6.3,11.6,17.1,20.8,24.7,25.6,22.3,16.7,9.5,2.7]},
+{name:'杭州',region:'cn',score:8.8,annual:17.96,rh:77,rain:140,sun:1710,hot:80,hotnight:114,wind:'较弱',feel:'高温高湿・热夜明显',grade:'B',temps:[5.4,7.5,11.6,17.4,22.4,25.4,29.7,29.3,25.0,19.6,13.8,7.7]},
+{name:'大连',region:'cn',score:8.6,annual:11.65,rh:74,rain:73,sun:2650,hot:0,hotnight:82,wind:'强',feel:'夏季清凉・冬春风寒',grade:'B',temps:[-3.3,-0.9,4.3,10.9,17.0,20.9,24.0,24.8,21.1,14.3,6.4,-0.5]},
+{name:'宁波',region:'cn',score:8.4,annual:17.64,rh:76,rain:154,sun:1709,hot:null,hotnight:null,wind:'中',feel:'梅雨 + 夏季湿热',grade:'B',temps:[5.7,7.2,11.1,16.3,21.1,24.9,29.1,28.7,24.8,19.8,14.3,8.0]},
+{name:'西雅图',region:'intl',score:9.6,annual:12.09,rh:78,rain:161,sun:2170,hot:4,hotnight:0,wind:'较弱',feel:'冬季湿凉・夏季非常舒适',grade:'A',temps:[6.0,6.7,8.4,10.7,14.2,16.7,19.5,19.7,17.0,12.1,8.1,5.6]},
+{name:'温哥华',region:'intl',score:9.5,annual:11.48,rh:80,rain:176,sun:1940,hot:1,hotnight:0,wind:'较弱',feel:'冬季阴雨・夏季舒适',grade:'A',temps:[5.3,5.9,7.6,10.4,14.0,16.5,19.0,18.9,15.8,11.2,7.5,5.2]},
+{name:'阿姆斯特丹',region:'intl',score:9.2,annual:10.46,rh:82,rain:147,sun:1780,hot:2,hotnight:0,wind:'强',feel:'凉湿多风・夏季温和',grade:'B',temps:[3.6,3.8,6.2,9.0,13.0,15.8,17.6,17.6,15.0,11.3,7.5,4.7]},
+{name:'都柏林',region:'intl',score:9.0,annual:9.71,rh:83,rain:137,sun:1460,hot:0,hotnight:0,wind:'强',feel:'湿凉多风・日照偏少',grade:'A',temps:[5.2,5.3,6.6,8.2,10.7,13.3,15.4,15.1,13.2,10.4,7.3,5.5]},
+{name:'哥本哈根',region:'intl',score:8.8,annual:9.09,rh:81,rain:131,sun:1700,hot:0,hotnight:0,wind:'强',feel:'夏凉冬风寒・高纬冬暗',grade:'C',temps:[1.2,1.2,3.2,7.3,12.2,15.9,17.6,17.6,13.9,9.8,5.7,2.9]},
+{name:'伦敦',region:'intl',score:8.6,annual:11.93,rh:80,rain:106,sun:1526,hot:1,hotnight:0,wind:'中偏强',feel:'温和偏阴・极端温度少',grade:'A',temps:[5.9,6.2,8.4,10.7,13.8,16.7,18.8,18.7,15.9,12.4,8.8,6.3]},
+{name:'多伦多',region:'intl',score:8.5,annual:9.75,rh:72,rain:118,sun:2066,hot:10,hotnight:9,wind:'中偏强',feel:'冬冷夏暖・季节反差大',grade:'A',temps:[-3.5,-2.7,1.7,7.8,14.5,19.8,22.5,21.9,17.9,11.2,5.2,-0.1]},
+{name:'奥克兰',region:'intl',score:8.4,annual:15.61,rh:79,rain:146,sun:2000,hot:0,hotnight:4,wind:'强',feel:'全年温和・多风湿润',grade:'B',temps:[20.0,20.5,18.9,16.6,14.2,12.1,11.2,11.7,13.1,14.6,16.2,18.5]}
+];
+const goalRanks={general:['西雅图','温哥华','苏州','阿姆斯特丹','上海','都柏林','青岛','杭州','哥本哈根','大连','伦敦','多伦多','宁波','奥克兰'],career:['上海','西雅图','伦敦','杭州','阿姆斯特丹','苏州','多伦多','温哥华','宁波','都柏林','青岛','大连','哥本哈根','奥克兰'],life:['温哥华','青岛','大连','奥克兰','苏州','西雅图','哥本哈根','都柏林','阿姆斯特丹','伦敦','上海','宁波','杭州','多伦多'],tech:['西雅图','杭州','上海','阿姆斯特丹','苏州','温哥华','多伦多','都柏林','伦敦','青岛','宁波','大连','哥本哈根','奥克兰'],finance:['伦敦','上海','阿姆斯特丹','多伦多','西雅图','温哥华','杭州','都柏林','苏州','宁波','青岛','大连','哥本哈根','奥克兰'],industry:['苏州','宁波','西雅图','多伦多','上海','大连','杭州','青岛','温哥华','阿姆斯特丹','伦敦','都柏林','哥本哈根','奥克兰'],startup:['西雅图','杭州','上海','阿姆斯特丹','宁波','苏州','温哥华','伦敦','多伦多','都柏林','青岛','大连','奥克兰','哥本哈根'],settle:['温哥华','哥本哈根','青岛','苏州','奥克兰','大连','西雅图','都柏林','阿姆斯特丹','伦敦','上海','宁波','多伦多','杭州']};
+const byName=Object.fromEntries(cities.map(c=>[c.name,c]));
+const regionEl=document.getElementById('region'),goalEl=document.getElementById('goal'),rankList=document.getElementById('rankList');
+function renderRanks(){const region=regionEl.value,goal=goalEl.value;const order=goalRanks[goal];let arr=order.map(n=>byName[n]).filter(c=>region==='all'||c.region===region);rankList.innerHTML=arr.map((c,i)=>`<div class="rank-row"><div class="rank-num">${i+1}</div><div><b>${c.name}</b><span class="source-badge">${c.region==='cn'?'国内':'国外'}</span><div class="bar"><i style="width:${Math.min(100,c.score*10)}%"></i></div><div class="small">${c.feel}</div></div><div style="text-align:right"><b>${goal==='general'?c.score.toFixed(1):'推荐'}</b><div class="small">${goal==='general'?'综合分':'专项'}</div></div></div>`).join('')}
+regionEl.addEventListener('change',renderRanks);goalEl.addEventListener('change',renderRanks);renderRanks();
+function tempColor(t){const min=-5,max=31,p=(t-min)/(max-min);const hue=240-220*Math.max(0,Math.min(1,p));return `hsl(${hue} 62% ${p>.72?58:48}%)`}
+const heat=document.getElementById('heatTable');heat.innerHTML='<thead><tr><th>城市</th>'+Array.from({length:12},(_,i)=>`<th>${i+1}月</th>`).join('')+'<th>年均</th></tr></thead><tbody>'+cities.map(c=>'<tr><td>'+c.name+'</td>'+c.temps.map(t=>`<td style="background:${tempColor(t)};color:${t>22?'#132':'#fff'}">${t.toFixed(1)}</td>`).join('')+`<td>${c.annual.toFixed(1)}</td></tr>`).join('')+'</tbody>';
+let sortDesc=true;const sortEl=document.getElementById('metricSort'),sortBtn=document.getElementById('sortDir'),body=document.getElementById('metricBody');
+function renderMetrics(){const key=sortEl.value;const arr=[...cities].sort((a,b)=>{const av=a[key]??-999,bv=b[key]??-999;return sortDesc?bv-av:av-bv});body.innerHTML=arr.map(c=>`<tr><td><b>${c.name}</b></td><td>${c.annual.toFixed(1)}</td><td>${c.rh}%</td><td>${c.rain}</td><td>${c.sun}</td><td>${c.hot==null?'—':c.hot}</td><td>${c.hotnight==null?'—':c.hotnight}</td><td>${c.wind}</td><td><span class="tag">${c.feel}</span></td><td><span class="tag ${c.grade.toLowerCase()}">${c.grade}</span></td></tr>`).join('')}
+sortEl.addEventListener('change',renderMetrics);sortBtn.addEventListener('click',()=>{sortDesc=!sortDesc;sortBtn.textContent=sortDesc?'降序':'升序';renderMetrics()});renderMetrics();
+const selected=new Set(['苏州','西雅图','温哥华']);const checks=document.getElementById('checks');checks.innerHTML=cities.map(c=>`<label><input type="checkbox" value="${c.name}" ${selected.has(c.name)?'checked':''}> ${c.name}</label>`).join('');
+checks.addEventListener('change',e=>{if(e.target.type!=='checkbox')return;const n=e.target.value;if(e.target.checked){if(selected.size>=4){e.target.checked=false;return}selected.add(n)}else selected.delete(n);drawChart()});
+const palette=['#315b7d','#4f7f6c','#9b6a2f','#8b5a8f'];
+function drawChart(){const svg=document.getElementById('tempChart');const W=820,H=350,p={l:48,r:20,t:20,b:42};const ymin=-6,ymax=32;let html='';for(let y=-5;y<=30;y+=5){const py=p.t+(ymax-y)/(ymax-ymin)*(H-p.t-p.b);html+=`<line x1="${p.l}" y1="${py}" x2="${W-p.r}" y2="${py}" stroke="#e4e7ec"/><text x="${p.l-8}" y="${py+4}" text-anchor="end" font-size="11" fill="#667085">${y}</text>`}for(let m=0;m<12;m++){const x=p.l+m*(W-p.l-p.r)/11;html+=`<text x="${x}" y="${H-15}" text-anchor="middle" font-size="11" fill="#667085">${m+1}月</text>`}Array.from(selected).forEach((n,idx)=>{const c=byName[n],pts=c.temps.map((t,m)=>{const x=p.l+m*(W-p.l-p.r)/11,y=p.t+(ymax-t)/(ymax-ymin)*(H-p.t-p.b);return [x,y]});html+=`<polyline fill="none" stroke="${palette[idx]}" stroke-width="3" points="${pts.map(a=>a.join(',')).join(' ')}"/>`;html+=pts.map(([x,y])=>`<circle cx="${x}" cy="${y}" r="3.5" fill="${palette[idx]}"/>`).join('')});svg.innerHTML=html;document.getElementById('legend').innerHTML=Array.from(selected).map((n,i)=>`<span><i class="dot" style="background:${palette[i]}"></i>${n}</span>`).join('');document.getElementById('compareSummary').innerHTML=Array.from(selected).map(n=>{const c=byName[n];return `<div class="metric" style="margin-bottom:7px"><b style="font-size:15px">${n}</b><span class="small">年均 ${c.annual.toFixed(1)}℃ · RH ${c.rh}% · 日照 ${c.sun}h · ${c.feel}</span></div>`}).join('')}
+drawChart();
+</script>
+</body>
+</html>
