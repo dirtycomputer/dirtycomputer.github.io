@@ -1,0 +1,80 @@
+name: Test Google Scholar Connectivity
+
+on:
+  push:
+    branches:
+      - scholar-independent-test
+    paths:
+      - .github/workflows/test_google_scholar.yaml
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+
+      - name: Install exact crawler dependencies
+        working-directory: google_scholar_crawler
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Import smoke test
+        run: |
+          python - <<'PY'
+          import scholarly
+          import bibtexparser
+          print('scholarly import: OK')
+          print('bibtexparser:', bibtexparser.__version__)
+          PY
+
+      - name: Direct Scholar HTTP test
+        continue-on-error: true
+        run: |
+          set -x
+          curl --fail --location --silent --show-error \
+            --connect-timeout 10 --max-time 20 \
+            --output /tmp/scholar.html \
+            --write-out 'HTTP %{http_code} total=%{time_total}s size=%{size_download}\n' \
+            'https://scholar.google.com/citations?user=jQSagnIAAAAJ&hl=en'
+          head -c 200 /tmp/scholar.html | tr '\n' ' '
+          echo
+
+      - name: Scholarly minimal author query (hard timeout)
+        continue-on-error: true
+        run: |
+          timeout --signal=TERM 60s python -u - <<'PY'
+          import time
+          from scholarly import scholarly
+
+          scholar_id = 'jQSagnIAAAAJ'
+          started = time.monotonic()
+          print('query start', flush=True)
+          author = scholarly.search_author_id(scholar_id)
+          print(f'search_author_id returned in {time.monotonic() - started:.2f}s', flush=True)
+          scholarly.fill(author, sections=['basics', 'indices', 'counts'])
+          print(f"fill returned in {time.monotonic() - started:.2f}s", flush=True)
+          print('name:', author.get('name'), flush=True)
+          print('citedby:', author.get('citedby'), flush=True)
+          PY
+          rc=$?
+          echo "scholarly exit code: $rc"
+          if [ "$rc" -eq 124 ]; then
+            echo 'RESULT: scholarly timed out after 60 seconds'
+          elif [ "$rc" -ne 0 ]; then
+            echo "RESULT: scholarly failed with exit code $rc"
+          else
+            echo 'RESULT: scholarly query succeeded'
+          fi
+          exit "$rc"
