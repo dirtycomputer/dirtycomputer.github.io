@@ -16,6 +16,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
@@ -34,11 +35,12 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
-      - name: Fetch citation data
+      - name: Fetch citation data from SerpApi
         working-directory: google_scholar_crawler
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-        run: python main.py
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: timeout --signal=TERM 90s python -u main.py
 
       - name: Publish citation data
         working-directory: google_scholar_crawler/results
