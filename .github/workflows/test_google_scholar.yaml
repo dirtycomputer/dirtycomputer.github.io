@@ -1,3 +1,4 @@
+# Isolated diagnostic workflow; does not publish citation data.
 name: Test Google Scholar Connectivity
 
 on:
