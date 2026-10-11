@@ -27,6 +27,7 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 
 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 
 - *2026.07*: &nbsp;🎉🎉 [TIKE was accepted to ACL 2026 Main (Long Paper)](https://aclanthology.org/2026.acl-long.405/).
@@ -50,6 +51,7 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 - *2023.10*: &nbsp;🎉🎉 [Fseg was accepted to BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
 - *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'>
@@ -182,6 +184,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class='anchor' id='honors-awards'></span>
 # 🎖 Honors & Awards
 
 - *2025.06* Outstanding Graduate, Beihang University
@@ -196,6 +199,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - *2023* Rank 2/42 in Beihang University
 - *2022* Rank 14/277 in Northeastern University
 
+<span class='anchor' id='academic-service'></span>
 # 🧑‍⚖️ Academic Service
 
 - *2026.08* [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/) reviewer
@@ -210,22 +214,26 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - *2024.05* [NeurIPS 2024](https://neurips.cc/Conferences/2024) reviewer
 - *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
 
+<span class='anchor' id='education'></span>
 # 📖 Education
 - *2025.09 - present*, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
 - *2022.09 - 2025.06*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
+<span class='anchor' id='teaching'></span>
 # 👨🏻‍🏫 Teaching
 - *2026.07* Teaching assistant at the [SII Summer School on Reinforcement Learning 2026](https://www.sii.edu.cn/2026/0530/c60a1078/page.htm), instructed by [Richard S. Sutton](https://incompleteideas.net/) (2024 ACM A.M. Turing Award laureate), jointly organized by [Shanghai Innovation Institute](https://www.sii.edu.cn/), [Openmind Research Institute](https://www.openmindresearch.org/), and [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). [[Certificate]](/assets/files/summer_school_TA.pdf)
 - *Fall 2025*, Introduction to Artificial Intelligence, Teaching Assistant, Fudan University ([Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en))
 - *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University ([Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en))
 
+<span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - *2026.03*, Shanghai, China. Guest speaker at iLearn Techtube, [HSBC Shanghai](https://www.hsbc.com.cn/), on the topic of "AI Agent: Practical and Deployable Intelligent Agent Design", together with [Shoujing (Sherwin) Zhu](https://www.linkedin.com/in/shoujing-z-114a4b212/) and [Torres (Haorong) Yao](https://www.linkedin.com/in/torresyao/).
 - *2023.12*, Istanbul, Turkey. Keynote speaker at [IEEE BIBM 2023](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/documents/BIBM2023-Program-1208.pdf) on "Leveraging Frequency Domain Learning in 3D Coronary Segmentation."
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
 -->
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships
 - *2025.01 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China. Research intern at the Center for Safe & Trustworthy AI, supervised by [Xun Zhao](https://emmaxunzhao.github.io/) and [Chaochao Lu](https://causallu.com/bio/).
 - *2024.04 - present*, [Tsinghua University](https://www.tsinghua.edu.cn/), China. Research intern in Prof. [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml)'s group, focusing on the safety of multimodal large language models.
