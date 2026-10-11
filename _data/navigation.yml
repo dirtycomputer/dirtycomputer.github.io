@@ -9,11 +9,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors & Awards"
+    url: "/#-honors--awards"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
 
   - title: "Education"
     url: "/#-education"
+
+  - title: "Teaching"
+    url: "/#-teaching"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
