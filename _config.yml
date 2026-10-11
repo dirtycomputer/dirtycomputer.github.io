@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xinyuan-wang-b3419a288"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/81/3778-9.html"
+  orcid            : "https://orcid.org/0009-0005-7577-1648"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -77,7 +77,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
-  - Gruntfile.js
+  - Gruntfile
   - LICENSE
   - README
   - Rakefile
