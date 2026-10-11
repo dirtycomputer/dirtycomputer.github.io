@@ -182,24 +182,12 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors, Awards, and Service
+# 🎖 Honors & Awards
 
-- *2026.08* [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/) reviewer
-- *2026.08* [ICLR 2027](https://iclr.cc/Conferences/2027) reviewer
-- *2026.07* Teaching assistant at the [SII Summer School on Reinforcement Learning 2026](https://www.sii.edu.cn/2026/0530/c60a1078/page.htm), instructed by [Richard S. Sutton](https://incompleteideas.net/) (2024 ACM A.M. Turing Award laureate), jointly organized by [Shanghai Innovation Institute](https://www.sii.edu.cn/), [Openmind Research Institute](https://www.openmindresearch.org/), and [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). [[Certificate]](/assets/files/summer_school_TA.pdf)
-- *2026.02* [ACL ARR 2026](https://2026.aclweb.org/) reviewer
-- *2025.09* [ICLR 2026](https://iclr.cc/Conferences/2026) reviewer
-- *2025.07* [AAAI 2026](https://aaai.org/Conferences/AAAI-26/) Program Committee member
 - *2025.06* Outstanding Graduate, Beihang University
-- *2025.03* [ICME 2025](https://2025.ieeeicme.org/) reviewer
-- *2025.03* [NeurIPS 2025](https://neurips.cc/Conferences/2025) reviewer
 - *2024.12* [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) student scholarship
-- *2024.12* [ICML 2025](https://icml.cc/Conferences/2025) reviewer
 - *2024.10* Outstanding League Member, Beihang University
 - *2024.10* First-Class Scholarship, Beihang University
-- *2024.08* [ICLR 2025](https://iclr.cc/Conferences/2025) reviewer
-- *2024.05* [NeurIPS 2024](https://neurips.cc/Conferences/2024) reviewer
-- *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
 - *2024.04* Outstanding Postgraduate Student, Beihang University
 - *2023.11* [Student Union President](https://iai.buaa.edu.cn/info/1011/2924.htm), Institute of Artificial Intelligence, Beihang University
 - *2023.10* Outstanding Student Cadre, Beihang University
@@ -208,12 +196,27 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - *2023* Rank 2/42 in Beihang University
 - *2022* Rank 14/277 in Northeastern University
 
+# 🧑‍⚖️ Academic Service
+
+- *2026.08* [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/) reviewer
+- *2026.08* [ICLR 2027](https://iclr.cc/Conferences/2027) reviewer
+- *2026.02* [ACL ARR 2026](https://2026.aclweb.org/) reviewer
+- *2025.09* [ICLR 2026](https://iclr.cc/Conferences/2026) reviewer
+- *2025.07* [AAAI 2026](https://aaai.org/Conferences/AAAI-26/) Program Committee member
+- *2025.03* [ICME 2025](https://2025.ieeeicme.org/) reviewer
+- *2025.03* [NeurIPS 2025](https://neurips.cc/Conferences/2025) reviewer
+- *2024.12* [ICML 2025](https://icml.cc/Conferences/2025) reviewer
+- *2024.08* [ICLR 2025](https://iclr.cc/Conferences/2025) reviewer
+- *2024.05* [NeurIPS 2024](https://neurips.cc/Conferences/2024) reviewer
+- *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
+
 # 📖 Education
 - *2025.09 - present*, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
 - *2022.09 - 2025.06*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
 
 # 👨🏻‍🏫 Teaching
+- *2026.07* Teaching assistant at the [SII Summer School on Reinforcement Learning 2026](https://www.sii.edu.cn/2026/0530/c60a1078/page.htm), instructed by [Richard S. Sutton](https://incompleteideas.net/) (2024 ACM A.M. Turing Award laureate), jointly organized by [Shanghai Innovation Institute](https://www.sii.edu.cn/), [Openmind Research Institute](https://www.openmindresearch.org/), and [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). [[Certificate]](/assets/files/summer_school_TA.pdf)
 - *Fall 2025*, Introduction to Artificial Intelligence, Teaching Assistant, Fudan University ([Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en))
 - *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University ([Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en))
 
