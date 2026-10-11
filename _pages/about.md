@@ -60,7 +60,7 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 
 [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Luozhijie Jin](https://scholar.google.com/citations?user=0Au6-0IAAAAJ&hl=zh-CN), [Bo Wang](https://scholar.google.com/citations?user=Q8xj86EAAAAJ&hl=zh-CN), [Yuan Li](https://scholar.google.com/citations?user=UmKOAF0AAAAJ), [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ), [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)
 
-[Paper](https://aclanthology.org/2026.acl-long.405/) · arXiv · Code · Dataset
+[Paper](https://aclanthology.org/2026.acl-long.405/) · arXiv · [Code](https://github.com/jinluo12345/TIKE) · Dataset
 </div>
 </div>
 
