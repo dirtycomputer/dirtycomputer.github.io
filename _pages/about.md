@@ -19,7 +19,9 @@ redirect_from:
 
 I'm a PhD student in the Department of Computer Science at Fudan University (since September 2025), advised by Professor [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en), with a research focus on multimodal large language models.
 
-My research interests also include computer vision, large language models, and AI safety. I have published several papers at international AI conferences, with total <a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests also include computer vision, large language models, and AI safety. I have published several papers at international AI conferences.
+
+<a href='https://scholar.google.com/citations?user=jQSagnIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 I am actively engaged in academic collaborations with institutions including Tsinghua University (CoAI Lab, Professor [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)), EPFL (Professor [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en) and [Jiancheng Yang](https://scholar.google.com/citations?user=EHkDyiUAAAAJ)), Peking University, NUS, NTU, HKU, among others. I am looking for highly self-motivated students with a strong background and interest in my research areas. If you are interested in working with me, please send your CV or homepage via buaa42wxy@gmail.com.
 
