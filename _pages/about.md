@@ -50,10 +50,10 @@ I am actively engaged in academic collaborations with institutions including Tsi
 - *2023.10*: &nbsp;🎉🎉 [Fseg was accepted to BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
 - *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">ACL 2026 Main (Long Paper)</div><img src='../images/projects/TIKE.png' alt="sym" width="80%"></div>
+<div><div class="badge">ACL 2026 Main (Long Paper)</div><img src='../images/projects/TIKE.png' alt="TIKE method overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +64,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">ICML 2026</div><img src='../images/projects/BandPO.png' alt="sym" width="80%"></div>
+<div><div class="badge">ICML 2026</div><img src='../images/projects/BandPO.png' alt="BandPO method overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -75,7 +75,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">EMNLP 2025</div><img src='../images/projects/DiffusionAttacker.png' alt="sym" width="80%"></div>
+<div><div class="badge">EMNLP 2025</div><img src='../images/projects/DiffusionAttacker.png' alt="DiffusionAttacker method overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,7 +86,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">MICCAI 2025 Spotlight</div><img src='../images/projects/DiffAtlas.png' alt="sym" width="80%"></div>
+<div><div class="badge">MICCAI 2025 Spotlight</div><img src='../images/projects/DiffAtlas.png' alt="DiffAtlas method overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,7 +97,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">Technical Report</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
+<div><div class="badge">Technical Report</div><img src='../images/projects/AISafetyLab.png' alt="AISafetyLab framework overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,7 +108,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arXiv</div><img src='../images/projects/BlackDAN.png' alt="sym" width="80%"></div>
+<div><div class="badge">arXiv</div><img src='../images/projects/BlackDAN.png' alt="BlackDAN method overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -119,7 +119,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">ICLR 2025 Spotlight</div><img src='../images/projects/LeFusion.png' alt="sym" width="80%"></div>
+<div><div class="badge">ICLR 2025 Spotlight</div><img src='../images/projects/LeFusion.png' alt="LeFusion method overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -130,7 +130,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">AAAI 2025</div><img src='../images/projects/3MAD.png' alt="sym" width="80%"></div>
+<div><div class="badge">AAAI 2025</div><img src='../images/projects/3MAD.png' alt="Medical MLLM jailbreak attack overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -141,7 +141,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arXiv</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
+<div><div class="badge">arXiv</div><img src='../images/projects/LightM-UNet.png' alt="LightM-UNet architecture overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -154,7 +154,7 @@ UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246.pdf)
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="sym" width="80%"></div>
+<div><div class="badge">AAAI 2024</div><img src='../images/projects/BiPFT.png' alt="BiPFT method overview" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -165,7 +165,7 @@ Binarization Residual Polynomials](https://arxiv.org/abs/2312.08937.pdf)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='../images/projects/Fseg.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='../images/projects/Fseg.png' alt="Frequency-domain 3D vessel segmentation overview" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Frequency Domain Learning in 3D
@@ -259,7 +259,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - Lei Sha (Beihang University)
 -->
 
-# 👨🏻‍💻 Undergraduate Research Assistant
+# 👨🏻‍💻 Undergraduate Research Assistants
 
 - Zihao Fu (Beihang University -> Tsinghua University)
 - Haoyu Hu (Beihang University -> Institute of Automation, Chinese Academy of Sciences)
