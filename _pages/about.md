@@ -32,23 +32,20 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 
 - *2026.07*: &nbsp;🎉🎉 [TIKE was accepted to ACL 2026 Main (Long Paper)](https://aclanthology.org/2026.acl-long.405/).
 - *2026.05*: &nbsp;🎉🎉 [BandPO was accepted to ICML 2026](https://arxiv.org/abs/2603.04918).
-- *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) GitHub repo released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
+- *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) code released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
 - *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted to EMNLP 2025](https://arxiv.org/abs/2412.17522).
 - *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted to MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
-- *2025.06*: &nbsp;🎉🎉 DiffAtlas GitHub repo released <a href='https://github.com/HINTLab/DiffAtlas'><img src="https://img.shields.io/github/stars/HINTLab/DiffAtlas"></a>. 
-- *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted to ICLR 2025 (Spotlight)](https://arxiv.org/abs/2403.14066).
-- *2025.01*: &nbsp;🎉🎉 Lefusion GitHub repo released <a href='https://github.com/HINTLab/LeFusion'><img src="https://img.shields.io/github/stars/HINTLab/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
-- *2024.12*: &nbsp;🎉🎉 AISafetyLab GitHub repo released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
+- *2025.06*: &nbsp;🎉🎉 DiffAtlas code released <a href='https://github.com/HINTLab/DiffAtlas'><img src="https://img.shields.io/github/stars/HINTLab/DiffAtlas"></a>.
+- *2025.01*: &nbsp;🎉🎉 [LeFusion was accepted to ICLR 2025 (Spotlight)](https://arxiv.org/abs/2403.14066).
+- *2025.01*: &nbsp;🎉🎉 LeFusion code released <a href='https://github.com/HINTLab/LeFusion'><img src="https://img.shields.io/github/stars/HINTLab/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
+- *2024.12*: &nbsp;🎉🎉 AISafetyLab code released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
 - *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted to AAAI 2025](https://arxiv.org/abs/2405.20775).
-- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) dataset 3MAD-Tiny-1K released [![3MAD-Tiny-1K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) 3MAD-66K released [![3MAD-66K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K)
-
-- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) GitHub repo released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
-
-- *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/abs/2403.05246.pdf) GitHub repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
-
-- *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted to AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
-- *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted to AAAI 2024](https://arxiv.org/abs/2312.08937.pdf) GitHub repo released <a href='https://github.com/Xingrun-Xing/BiPFT'><img src="https://img.shields.io/github/stars/Xingrun-Xing/BiPFT"></a>.
-- *2023.10*: &nbsp;🎉🎉 [Fseg was accepted to BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
+- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) datasets released: 3MAD-Tiny-1K [![3MAD-Tiny-1K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) and 3MAD-66K [![3MAD-66K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K).
+- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) code released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
+- *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/abs/2403.05246.pdf) code released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
+- *2024.01*: &nbsp;🎉🎉 [BiPFT (accepted to AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ).
+- *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted to AAAI 2024](https://arxiv.org/abs/2312.08937.pdf); code released <a href='https://github.com/Xingrun-Xing/BiPFT'><img src="https://img.shields.io/github/stars/Xingrun-Xing/BiPFT"></a>.
+- *2023.10*: &nbsp;🎉🎉 [Fseg was accepted to BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064).
 - *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
 <span class='anchor' id='publications'></span>
@@ -62,6 +59,8 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 [TIKE: Efficient KL Divergence Estimation via Truncated Top-K Integration for Large Language Models](https://aclanthology.org/2026.acl-long.405/)
 
 [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Luozhijie Jin](https://scholar.google.com/citations?user=0Au6-0IAAAAJ&hl=zh-CN), [Bo Wang](https://scholar.google.com/citations?user=Q8xj86EAAAAJ&hl=zh-CN), [Yuan Li](https://scholar.google.com/citations?user=UmKOAF0AAAAJ), [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ), [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)
+
+[Paper](https://aclanthology.org/2026.acl-long.405/) · arXiv · Code · Dataset
 </div>
 </div>
 
@@ -70,9 +69,11 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 </div>
 <div class='paper-box-text' markdown="1">
 
-[BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](https://arxiv.org/abs/2603.04918)
+[BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning](https://proceedings.mlr.press/v306/li26gm.html)
 
 [Yuan Li](https://scholar.google.com/citations?user=UmKOAF0AAAAJ), [Bo Wang](https://scholar.google.com/citations?user=Q8xj86EAAAAJ&hl=zh-CN), [Yufei Gao](https://scholar.google.com/citations?user=yUzpCD4AAAAJ&hl=zh-CN), Yuqian Yao, [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ), [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)
+
+[Paper](https://proceedings.mlr.press/v306/li26gm.html) · [arXiv](https://arxiv.org/abs/2603.04918) · [Code](https://github.com/OpenMOSS/BandPO) · Dataset
 </div>
 </div>
 
@@ -81,9 +82,11 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 </div>
 <div class='paper-box-text' markdown="1">
 
-[DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://arxiv.org/abs/2412.17522)
+[DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://aclanthology.org/2025.emnlp-main.1128/)
 
-[Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ&hl=en), [Junda Zhu](https://scholar.google.com/citations?user=NrsJYwkAAAAJ&hl=zh-CN), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN)
+[Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ&hl=en), [Junda Zhu](https://scholar.google.com/citations?user=NrsJYwkAAAAJ&hl=zh-CN), [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN)
+
+[Paper](https://aclanthology.org/2025.emnlp-main.1128/) · [arXiv](https://arxiv.org/abs/2412.17522) · Code · Dataset
 </div>
 </div>
 
@@ -92,9 +95,11 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 </div>
 <div class='paper-box-text' markdown="1">
 
-[DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion](https://arxiv.org/abs/2503.06748)
+[DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion](https://papers.miccai.org/miccai-2025/0231-Paper0228.html)
 
-[Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong Guo, **Xinyuan Wang**, [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=zh-CN), [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+[Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), Weidong Guo, [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=zh-CN), [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+
+[Paper](https://papers.miccai.org/miccai-2025/0231-Paper0228.html) · [arXiv](https://arxiv.org/abs/2503.06748) · [Code](https://github.com/HINTLab/DiffAtlas) · [Dataset](https://huggingface.co/datasets/YuheLiuu/DiffAtlas_Preprocessed_Data)
 </div>
 </div>
 
@@ -105,7 +110,9 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 
 [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776)
 
-[Zhexin Zhang](https://scholar.google.com/citations?user=I-Cn8gkAAAAJ&hl=zh-CN), [Leqi Lei](https://scholar.google.com/citations?user=j65DJIEAAAAJ&hl=zh-CN), [Junxiao Yang](https://scholar.google.com/citations?user=8Zu6HocAAAAJ&hl=zh-CN), [Xijie Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), [Yida Lu](https://openreview.net/profile?id=~Yida_Lu1), [Shiyao Cui](https://scholar.google.com/citations?user=sVXAK-kAAAAJ&hl=zh-CN), [Renmiao Chen](https://openreview.net/profile?id=~Renmiao_Chen1), Qinglin Zhang, **Xinyuan Wang**, [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ&hl=en), Xianqi Lei, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Hongning Wang](https://scholar.google.com/citations?hl=en&user=qkdvKNoAAAAJ&view_op=list_works&sortby=pubdate), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+[Zhexin Zhang](https://scholar.google.com/citations?user=I-Cn8gkAAAAJ&hl=zh-CN), [Leqi Lei](https://scholar.google.com/citations?user=j65DJIEAAAAJ&hl=zh-CN), [Junxiao Yang](https://scholar.google.com/citations?user=8Zu6HocAAAAJ&hl=zh-CN), [Xijie Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), [Yida Lu](https://openreview.net/profile?id=~Yida_Lu1), [Shiyao Cui](https://scholar.google.com/citations?user=sVXAK-kAAAAJ&hl=zh-CN), [Renmiao Chen](https://openreview.net/profile?id=~Renmiao_Chen1), Qinglin Zhang, [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Li](https://scholar.google.com/citations?user=iZcvrH8AAAAJ&hl=en), Xianqi Lei, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Hongning Wang](https://scholar.google.com/citations?hl=en&user=qkdvKNoAAAAJ&view_op=list_works&sortby=pubdate), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+
+Paper · [arXiv](https://arxiv.org/abs/2502.16776) · [Code](https://github.com/thu-coai/AISafetyLab) · Dataset
 </div>
 </div>
 
@@ -116,7 +123,9 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 
 [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](https://arxiv.org/abs/2410.09804)
 
-**Xinyuan Wang**, [Victor Shea-Jay Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), Renmiao Chen, [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+[**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Victor Shea-Jay Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), Renmiao Chen, [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+
+Paper · [arXiv](https://arxiv.org/abs/2410.09804) · Code · Dataset
 </div>
 </div>
 
@@ -125,9 +134,11 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 </div>
 <div class='paper-box-text' markdown="1">
 
-[LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models](https://arxiv.org/abs/2403.14066)
+[LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models](https://proceedings.iclr.cc/paper_files/paper/2025/hash/233d16f17f809981763db2f01b7f9603-Abstract-Conference.html)
 
-[Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong Wan](https://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm), **Xinyuan Wang**, [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=zh-CN), [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+[Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), Yuhe Liu, [Jiancheng Yang](https://jiancheng-yang.com/), [Shouhong Wan](https://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm), [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=zh-CN), [Pascal Fua](https://scholar.google.com/citations?user=kzFmAkYAAAAJ&hl=en)
+
+[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/233d16f17f809981763db2f01b7f9603-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2403.14066) · [Code](https://github.com/HINTLab/LeFusion) · Dataset
 </div>
 </div>
 
@@ -136,9 +147,11 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://arxiv.org/abs/2405.20775)
+[Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/32396)
 
-[Xijie Huang](https://github.com/JeixHuang), **Xinyuan Wang**, [Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Liang](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ&view_op=list_works&sortby=pubdate), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
+[Xijie Huang](https://github.com/JeixHuang), [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Hantao Zhang](https://scholar.google.com/citations?hl=en&user=7RJH908AAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), Jiawen Xi, [Jingkun An](https://scholar.google.com/citations?hl=zh-CN&user=gtoavQoAAAAJ), [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Hao Liang](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ&view_op=list_works&sortby=pubdate), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)
+
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32396) · [arXiv](https://arxiv.org/abs/2405.20775) · [Code](https://github.com/dirtycomputer/O2M_attack) · [Dataset-1K](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) · [Dataset-66K](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K)
 </div>
 </div>
 
@@ -147,11 +160,11 @@ I have collaborated with researchers from Tsinghua University, EPFL, Peking Univ
 </div>
 <div class='paper-box-text' markdown="1">
 
-[LightM-UNet: Mamba Assists in Lightweight
-UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246.pdf)
+[LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246)
 
+[Weibin Liao](https://scholar.google.com/citations?hl=zh-CN&user=4yUXvDsAAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Yasha Wang](https://www.aminer.cn/profile/yasha-wang/542cc019dabfae4b91c24265), [Liantao Ma](http://scholar.pku.edu.cn/malt)
 
-[Weibin Liao](https://scholar.google.com/citations?hl=zh-CN&user=4yUXvDsAAAAJ), [Yinghao Zhu](https://yhzhu99.github.io), **Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Yasha Wang](https://www.aminer.cn/profile/yasha-wang/542cc019dabfae4b91c24265), [Liantao Ma](http://scholar.pku.edu.cn/malt)
+Paper · [arXiv](https://arxiv.org/abs/2403.05246) · [Code](https://github.com/MrBlankness/LightM-UNet) · Dataset
 </div>
 </div>
 
@@ -160,20 +173,22 @@ UNet for Medical Image Segmentation](https://arxiv.org/abs/2403.05246.pdf)
 </div>
 <div class='paper-box-text' markdown="1">
 
-[BiPFT: Binary Pre-trained Foundation Transformer with Low-rank Estimation of
-Binarization Residual Polynomials](https://arxiv.org/abs/2312.08937.pdf)
+[BiPFT: Binary Pre-trained Foundation Transformer with Low-rank Estimation of Binarization Residual Polynomials](https://ojs.aaai.org/index.php/AAAI/article/view/29542)
 
-[Xingrun Xing](https://scholar.google.com.hk/citations?hl=zh-CN&user=sEdxu1UAAAAJ&view_op=list_works&sortby=pubdate),[Li Du](https://scholar.google.com.hk/citations?user=ag1JoOEAAAAJ&hl=zh-CN), **Xinyuan Wang**, Xianlin Zeng, [Yequan Wang](https://www.wangyequan.com), [Zheng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=S2bil1cAAAAJ&view_op=list_works&sortby=pubdate), [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm)
+[Xingrun Xing](https://scholar.google.com.hk/citations?hl=zh-CN&user=sEdxu1UAAAAJ&view_op=list_works&sortby=pubdate), [Li Du](https://scholar.google.com.hk/citations?user=ag1JoOEAAAAJ&hl=zh-CN), [**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), Xianlin Zeng, [Yequan Wang](https://www.wangyequan.com), [Zheng Zhang](https://scholar.google.com/citations?hl=zh-CN&user=S2bil1cAAAAJ&view_op=list_works&sortby=pubdate), [Jiajun Zhang](https://nlpr.ia.ac.cn/cip/jjzhang.htm)
+
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29542) · [arXiv](https://arxiv.org/abs/2312.08937) · [Code](https://github.com/Xingrun-Xing/BiPFT) · Dataset
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='../images/projects/Fseg.png' alt="Frequency-domain 3D vessel segmentation overview" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Leveraging Frequency Domain Learning in 3D
-Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
+[Leveraging Frequency Domain Learning in 3D Vessel Segmentation](https://ieeexplore.ieee.org/abstract/document/10386064)
 
-**Xinyuan Wang**, [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Hongming Dai](https://www.linkedin.com/in/hongming-dai-76b936176/), [Gangming Zhao](https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en), [Jinpeng Li](https://scholar.google.com/citations?user=hzEaITAAAAAJ&hl=zh-CN), Xiao Zhang, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
+[**Xinyuan Wang**](https://scholar.google.com/citations?user=jQSagnIAAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Hongming Dai](https://www.linkedin.com/in/hongming-dai-76b936176/), [Gangming Zhao](https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en), [Jinpeng Li](https://scholar.google.com/citations?user=hzEaITAAAAAJ&hl=zh-CN), Xiao Zhang, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/10386064) · [arXiv](https://arxiv.org/abs/2401.06224) · Code · Dataset
 </div>
 </div>
 
