@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyuan Wang (王新元)"
-description              : "Xinyuan Wang is a PhD student at Fudan University working on multimodal large language models, large language models, computer vision, and AI safety."
+description              : "Xinyuan Wang is a PhD student at Fudan University researching multimodal large language models, post-training, AI safety, and computer vision."
 repository               : "dirtycomputer/dirtycomputer.github.io"
 google_scholar_stats_use_cdn : false
 
