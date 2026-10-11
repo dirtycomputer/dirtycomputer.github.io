@@ -77,7 +77,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
-  - Gruntfile
+  - Gruntfile.js
   - LICENSE
   - README
   - Rakefile
