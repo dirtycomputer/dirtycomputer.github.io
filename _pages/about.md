@@ -112,7 +112,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 [BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models](https://arxiv.org/abs/2410.09804)
 
-**Xinyuan Wang**, [Victor Shea-Jay Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), Renmiao Chen, [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN)
+**Xinyuan Wang**, [Victor Shea-Jay Huang](https://scholar.google.com/citations?user=pL5W9z4AAAAJ&hl=en), Renmiao Chen, [Hao Wang](https://scholar.google.com/citations?hl=en&user=LfbCou8AAAAJ), [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), [Lei Sha](https://scholar.google.com/citations?user=EbZ_P6gAAAAJ&hl=zh-CN), [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=en)
 </div>
 </div>
 
@@ -206,7 +206,7 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - *2023* Rank 2/42 in Beihang University
 - *2022* Rank 14/277 in Northeastern University
 
-# 📖 Educations
+# 📖 Education
 - *2025.09 - present*, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
 - *Fall 2025*, Introduction to Artificial Intelligence, Teaching Assistant, Fudan University ([Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en))
 - *2022.09 - 2025.06*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
