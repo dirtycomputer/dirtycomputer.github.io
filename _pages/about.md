@@ -27,31 +27,31 @@ I am actively engaged in academic collaborations with institutions including Tsi
 
 # 🔥 News
 
-- *2026.07*: &nbsp;🎉🎉 [TIKE was accepted by ACL 2026 main (Long Paper)](https://aclanthology.org/2026.acl-long.405/).
-- *2026.05*: &nbsp;🎉🎉 [BandPO was accepted by ICML 2026](https://arxiv.org/abs/2603.04918).
-- *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) github repo released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
-- *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted by EMNLP 2025](https://arxiv.org/abs/2412.17522).
-- *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted by MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
-- *2025.06*: &nbsp;🎉🎉 DiffAtlas github repo released <a href='https://github.com/HINTLab/DiffAtlas'><img src="https://img.shields.io/github/stars/HINTLab/DiffAtlas"></a>. 
-- *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted by ICLR 2025 (Spotlight)](https://arxiv.org/abs/2403.14066).
-- *2025.01*: &nbsp;🎉🎉 Lefusion github repo released <a href='https://github.com/HINTLab/LeFusion'><img src="https://img.shields.io/github/stars/HINTLab/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
-- *2024.12*: &nbsp;🎉🎉 AISafetyLab github repo released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
-- *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted by AAAI 2025](https://arxiv.org/abs/2405.20775).
+- *2026.07*: &nbsp;🎉🎉 [TIKE was accepted to ACL 2026 Main (Long Paper)](https://aclanthology.org/2026.acl-long.405/).
+- *2026.05*: &nbsp;🎉🎉 [BandPO was accepted to ICML 2026](https://arxiv.org/abs/2603.04918).
+- *2026.03*: &nbsp;🎉🎉 [BandPO](https://arxiv.org/abs/2603.04918) GitHub repo released <a href='https://github.com/OpenMOSS/BandPO.git'><img src="https://img.shields.io/github/stars/OpenMOSS/BandPO"></a>.
+- *2025.08*: &nbsp;🎉🎉 [DiffusionAttacker was accepted to EMNLP 2025](https://arxiv.org/abs/2412.17522).
+- *2025.08*: &nbsp;🎉🎉 [DiffAtlas was accepted to MICCAI 2025 (Spotlight)](https://arxiv.org/abs/2503.06748).
+- *2025.06*: &nbsp;🎉🎉 DiffAtlas GitHub repo released <a href='https://github.com/HINTLab/DiffAtlas'><img src="https://img.shields.io/github/stars/HINTLab/DiffAtlas"></a>. 
+- *2025.01*: &nbsp;🎉🎉 [Lefusion was accepted to ICLR 2025 (Spotlight)](https://arxiv.org/abs/2403.14066).
+- *2025.01*: &nbsp;🎉🎉 Lefusion GitHub repo released <a href='https://github.com/HINTLab/LeFusion'><img src="https://img.shields.io/github/stars/HINTLab/LeFusion"></a>. Thanks for the collaboration with the EPFL [CVLab](https://www.epfl.ch/labs/cvlab/) team.
+- *2024.12*: &nbsp;🎉🎉 AISafetyLab GitHub repo released <a href='https://github.com/thu-coai/AISafetyLab'><img src="https://img.shields.io/github/stars/thu-coai/AISafetyLab"></a>. Thanks for the collaboration with the Tsinghua [CoAI](https://github.com/thu-coai) team.
+- *2024.12*: &nbsp;🎉🎉 [O2M_attack was accepted to AAAI 2025](https://arxiv.org/abs/2405.20775).
 - *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) dataset 3MAD-Tiny-1K released [![3MAD-Tiny-1K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-Tiny-1K) 3MAD-66K released [![3MAD-66K](../images/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/MedMLLM-attack/3MAD-66K)
 
-- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) github repo released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
+- *2024.06*: &nbsp;🎉🎉 [O2M_attack](https://arxiv.org/abs/2405.20775) GitHub repo released <a href='https://github.com/dirtycomputer/O2M_attack'><img src="https://img.shields.io/github/stars/dirtycomputer/O2M_attack"></a>.
 
-- *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/abs/2403.05246.pdf) github repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
+- *2024.03*: &nbsp;🎉🎉 [LightM-UNet](https://arxiv.org/abs/2403.05246.pdf) GitHub repo released <a href='https://github.com/mrblankness/lightm-unet'><img src="https://img.shields.io/github/stars/MrBlankness/LightM-UNet"></a>.
 
-- *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted by AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
-- *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted by AAAI 2024](https://arxiv.org/abs/2312.08937.pdf) github repo released <a href='https://github.com/Xingrun-Xing/BiPFT'><img src="https://img.shields.io/github/stars/Xingrun-Xing/BiPFT"></a>.
-- *2023.10*: &nbsp;🎉🎉 [Fseg was accepted by BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
+- *2024.01*: &nbsp;🎉🎉 [BiPFT(accepted to AAAI 2024) was reported by BAAI](https://mp.weixin.qq.com/s/ibBaWCdDcF2pA-Ug9XH1gQ). 
+- *2023.12*: &nbsp;🎉🎉 [BiPFT was accepted to AAAI 2024](https://arxiv.org/abs/2312.08937.pdf) GitHub repo released <a href='https://github.com/Xingrun-Xing/BiPFT'><img src="https://img.shields.io/github/stars/Xingrun-Xing/BiPFT"></a>.
+- *2023.10*: &nbsp;🎉🎉 [Fseg was accepted to BIBM 2023](https://ieeexplore.ieee.org/abstract/document/10386064). 
 - *2023.10*: &nbsp;🎉🎉 Fseg was supported by the [National Key R&D Program of China](https://en.most.gov.cn/programmes1/200610/t20061009_36224.htm).
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">ACL 2026 main (Long Paper)</div><img src='../images/projects/TIKE.png' alt="sym" width="80%"></div>
+<div><div class="badge">ACL 2026 Main (Long Paper)</div><img src='../images/projects/TIKE.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +62,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">ICML 2026 Accepted</div><img src='../images/projects/BandPO.png' alt="sym" width="80%"></div>
+<div><div class="badge">ICML 2026</div><img src='../images/projects/BandPO.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,7 +95,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">technical report</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
+<div><div class="badge">Technical Report</div><img src='../images/projects/AISafetyLab.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,7 +106,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/BlackDAN.png' alt="sym" width="80%"></div>
+<div><div class="badge">arXiv</div><img src='../images/projects/BlackDAN.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -139,7 +139,7 @@ I am actively engaged in academic collaborations with institutions including Tsi
 </div>
 
 <div class='paper-box'><div class='paper-box-image'>
-<div><div class="badge">arxiv release</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
+<div><div class="badge">arXiv</div><img src='../images/projects/LightM-UNet.png' alt="sym" width="80%"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
@@ -194,14 +194,14 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 - *2024.12* [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) student scholarship
 - *2024.12* [ICML 2025](https://icml.cc/Conferences/2025) reviewer
 - *2024.10* Outstanding League Member, Beihang University
-- *2024.10* 1st-Class Scholarship, Beihang University
+- *2024.10* First-Class Scholarship, Beihang University
 - *2024.08* [ICLR 2025](https://iclr.cc/Conferences/2025) reviewer
-- *2024.05* [Neurips 2024](https://neurips.cc/Conferences/2024) reviewer
+- *2024.05* [NeurIPS 2024](https://neurips.cc/Conferences/2024) reviewer
 - *2024.05* [ACM MM 2024](https://2024.acmmm.org/) reviewer
 - *2024.04* Outstanding Postgraduate Student, Beihang University
 - *2023.11* [Student Union President](https://iai.buaa.edu.cn/info/1011/2924.htm), Institute of Artificial Intelligence, Beihang University
 - *2023.10* Outstanding Student Cadre, Beihang University
-- *2023.10* 1st-Class Scholarship, Beihang University
+- *2023.10* First-Class Scholarship, Beihang University
 - *2023.07* [Silver Diploma](https://mp.weixin.qq.com/s/EgRv-WxUEUq_sCSDsjBKgA), World Choir Games 2023🎵
 - *2023* Rank 2/42 in Beihang University
 - *2022* Rank 14/277 in Northeastern University
