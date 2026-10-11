@@ -210,25 +210,27 @@ Vessel Segmentation](https://arxiv.org/abs/2401.06224.pdf)
 
 # 📖 Education
 - *2025.09 - present*, PhD. (supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en)) in [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/), Fudan University, Shanghai, China
-- *Fall 2025*, Introduction to Artificial Intelligence, Teaching Assistant, Fudan University ([Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en))
 - *2022.09 - 2025.06*, M.Eng. (supervised by [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en)) in [Institute of Artificial Intelligence](https://iai.buaa.edu.cn/), Beihang University, Beijing, China
-- *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University ([Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en))
 - *2018.09 - 2022.06*, B.Eng. (supervised by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN)) in School of Computer Science and Engineering, Northeastern University, Shenyang, China
+
+# 👨🏻‍🏫 Teaching
+- *Fall 2025*, Introduction to Artificial Intelligence, Teaching Assistant, Fudan University ([Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C&hl=en))
+- *Fall 2023*, Design and Analysis of Algorithms, Teaching Assistant, Beihang University ([Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en))
 
 # 💬 Invited Talks
 - *2026.03*, Shanghai, China. Guest speaker at iLearn Techtube, [HSBC Shanghai](https://www.hsbc.com.cn/), on the topic of "AI Agent: Practical and Deployable Intelligent Agent Design", together with [Shoujing (Sherwin) Zhu](https://www.linkedin.com/in/shoujing-z-114a4b212/) and [Torres (Haorong) Yao](https://www.linkedin.com/in/torresyao/).
-- *2023.12*, Istanbul, Turkey. He delivered a [keynote speech](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/documents/BIBM2023-Program-1208.pdf) on the topic of "Leveraging Frequency Domain Learning in 3D Coronary Segmentation" at the BIBM 2023 conference.
+- *2023.12*, Istanbul, Turkey. Keynote speaker at [IEEE BIBM 2023](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/documents/BIBM2023-Program-1208.pdf) on "Leveraging Frequency Domain Learning in 3D Coronary Segmentation."
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
 -->
 
 # 💻 Internships
-- *2025.01 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China. He was a research intern in Center for Safe & Trustworthy AI under the supervision of [Xun Zhao](https://emmaxunzhao.github.io/) and [Chaochao Lu](https://causallu.com/bio/).
-- *2024.04 - present*, [Tsinghua University](https://www.tsinghua.edu.cn/), China. He was a research intern in Professor [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml)'s group at Tsinghua University, focusing on the safety issues of Multimodal Large Language Models (LLMs).
-- *2023.02 - 2023.08*, [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn/), China. He was a research intern in the Cognitive Large-Scale Model Group mentored by [Xin Jiang](https://scholar.google.com/citations?user=3mqJwa8AAAAJ&hl=zh-CN) and [Yequan Wang](https://www.wangyequan.com/).
+- *2025.01 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China. Research intern at the Center for Safe & Trustworthy AI, supervised by [Xun Zhao](https://emmaxunzhao.github.io/) and [Chaochao Lu](https://causallu.com/bio/).
+- *2024.04 - present*, [Tsinghua University](https://www.tsinghua.edu.cn/), China. Research intern in Prof. [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml)'s group, focusing on the safety of multimodal large language models.
+- *2023.02 - 2023.08*, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), China. Research intern in the Cognitive Large-Scale Model Group, mentored by [Xin Jiang](https://scholar.google.com/citations?user=3mqJwa8AAAAJ&hl=zh-CN) and [Yequan Wang](https://www.wangyequan.com/).
 - *2022.09 - 2023.02*, Key Laboratory of Mathematics, Informatics and Behavioral Semantics, Ministry of Education, Beijing, China.
-- *2022.01 - 2022.02*, NC State University, USA. He participated in the GEARS program at North Carolina State University in 2022, under the supervision of [Hien Tran](https://math.sciences.ncsu.edu/people/tran/). The project focused on Airplane Detection and Classification.
-- *2021.06 - 2022.06*, Key Laboratory of Intelligent Computing in Medical Image of Ministry of Education, Northeastern University, Shenyang, China. He was a research intern mentored by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN) aiming at medical segmentation tasks.
-- *2019.03 - 2021.06*, Northeastern University, China. He was a research intern mentored by [Qidong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=cFAcguwAAAAJ&view_op=list_works&sortby=pubdate), [Zhuoran Liu](https://scholar.google.com/citations?user=tEyLvJQAAAAJ&hl=zh-CN), [Changsheng Zhang](https://dblp.org/pid/70/1079-1.html) and [Bin Zhang](https://dblp.org/pid/13/5236-1.html). His research focuses on multi-objective optimization and path planning problems.
+- *2022.01 - 2022.02*, NC State University, USA. Participant in the GEARS program, supervised by [Hien Tran](https://math.sciences.ncsu.edu/people/tran/). Project focused on airplane detection and classification.
+- *2021.06 - 2022.06*, Key Laboratory of Intelligent Computing in Medical Image of Ministry of Education, Northeastern University, Shenyang, China. Research intern, mentored by [Peng Cao](https://scholar.google.com/citations?user=0OfgZSsAAAAJ&hl=zh-CN), working on medical image segmentation.
+- *2019.03 - 2021.06*, Northeastern University, China. Research intern, mentored by [Qidong Zhao](https://scholar.google.com/citations?hl=zh-CN&user=cFAcguwAAAAJ&view_op=list_works&sortby=pubdate), [Zhuoran Liu](https://scholar.google.com/citations?user=tEyLvJQAAAAJ&hl=zh-CN), [Changsheng Zhang](https://dblp.org/pid/70/1079-1.html), and [Bin Zhang](https://dblp.org/pid/13/5236-1.html). Research focused on multi-objective optimization and path planning.
 # 👨🏻‍🎓 Collaborators
 
 - Hongming Dai (National University of Singapore)
