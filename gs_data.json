@@ -1,0 +1,241 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "jQSagnIAAAAJ",
+  "source": "SERPAPI_GOOGLE_SCHOLAR_AUTHOR",
+  "name": "Xinyuan Wang",
+  "affiliation": "Fudan University",
+  "interests": [
+    {
+      "title": "Information Geometry",
+      "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:information_geometry",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_geometry"
+    },
+    {
+      "title": "Manifold Learning",
+      "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:manifold_learning",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amanifold_learning"
+    },
+    {
+      "title": "Reinforcement Learning",
+      "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning"
+    },
+    {
+      "title": "Multi-objective Optimization",
+      "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multi_objective_optimization",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amulti_objective_optimization"
+    }
+  ],
+  "citedby": 549,
+  "citedby5y": 549,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 7,
+  "i10index5y": 7,
+  "cites_per_year": {
+    "2023": 3,
+    "2024": 66,
+    "2025": 242,
+    "2026": 236
+  },
+  "publications": {
+    "jQSagnIAAAAJ:4JMBOYKVnBMC": {
+      "title": "Lightm-unet: Mamba assists in lightweight unet for medical image segmentation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:4JMBOYKVnBMC",
+      "citation_id": "jQSagnIAAAAJ:4JMBOYKVnBMC",
+      "authors": "W Liao, Y Zhu, X Wang, C Pan, Y Wang, L Ma",
+      "publication": "arXiv preprint arXiv:2403.05246, 2024",
+      "cited_by": {
+        "value": 372,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10685541114155394959",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10685541114155394959&engine=google_scholar&hl=en",
+        "cites_id": "10685541114155394959"
+      },
+      "year": "2024"
+    },
+    "jQSagnIAAAAJ:TFP_iSt0sucC": {
+      "title": "Lefusion: Synthesizing myocardial pathology on cardiac mri via lesion-focus diffusion models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:TFP_iSt0sucC",
+      "citation_id": "jQSagnIAAAAJ:TFP_iSt0sucC",
+      "authors": "H Zhang, Y Liu, J Yang, S Wan, X Wang, W Peng, P Fua",
+      "publication": "ICLR 2025 Spotlight, 2024",
+      "cited_by": {
+        "value": 41,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7964901541043614780,14152542339068186452",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7964901541043614780%2C14152542339068186452&engine=google_scholar&hl=en",
+        "cites_id": "7964901541043614780,14152542339068186452"
+      },
+      "year": "2024"
+    },
+    "jQSagnIAAAAJ:blknAaTinKkC": {
+      "title": "Medical mllm is vulnerable: Cross-modality jailbreak and mismatched attacks on medical multimodal large language models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:blknAaTinKkC",
+      "citation_id": "jQSagnIAAAAJ:blknAaTinKkC",
+      "authors": "X Huang, X Wang, H Zhang, Y Zhu, J Xi, J An, H Wang, H Liang, C Pan",
+      "publication": "AAAI 2025, 2024",
+      "cited_by": {
+        "value": 40,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18097467165940231629,16214368708605457162,5460058481564906759",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18097467165940231629%2C16214368708605457162%2C5460058481564906759&engine=google_scholar&hl=en",
+        "cites_id": "18097467165940231629,16214368708605457162,5460058481564906759"
+      },
+      "year": "2024"
+    },
+    "jQSagnIAAAAJ:maZDTaKrznsC": {
+      "title": "Diffusionattacker: Diffusion-driven prompt manipulation for llm jailbreak",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:maZDTaKrznsC",
+      "citation_id": "jQSagnIAAAAJ:maZDTaKrznsC",
+      "authors": "H Wang, H Li, J Zhu, X Wang, C Pan, ML Huang, L Sha",
+      "publication": "EMNLP 2025, 2024",
+      "cited_by": {
+        "value": 22,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2512603417446783235",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2512603417446783235&engine=google_scholar&hl=en",
+        "cites_id": "2512603417446783235"
+      },
+      "year": "2024"
+    },
+    "jQSagnIAAAAJ:TQgYirikUcIC": {
+      "title": "A discrete squirrel search optimization based algorithm for Bi-objective TSP",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:TQgYirikUcIC",
+      "citation_id": "jQSagnIAAAAJ:TQgYirikUcIC",
+      "authors": "Z Liu, F Zhang, X Wang, Q Zhao, C Zhang, T Liu, B Zhang",
+      "publication": "Wireless Networks, 1-1, 2021",
+      "cited_by": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9289450457080263907",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9289450457080263907&engine=google_scholar&hl=en",
+        "cites_id": "9289450457080263907"
+      },
+      "year": "2021"
+    },
+    "jQSagnIAAAAJ:M3NEmzRMIkIC": {
+      "title": "Aisafetylab: A comprehensive framework for ai safety evaluation and improvement",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:M3NEmzRMIkIC",
+      "citation_id": "jQSagnIAAAAJ:M3NEmzRMIkIC",
+      "authors": "Z Zhang, L Lei, J Yang, X Huang, Y Lu, S Cui, R Chen, Q Zhang, X Wang, ...",
+      "publication": "arXiv preprint arXiv:2502.16776, 2025",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1590158443541405014",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1590158443541405014&engine=google_scholar&hl=en",
+        "cites_id": "1590158443541405014"
+      },
+      "year": "2025"
+    },
+    "jQSagnIAAAAJ:isC4tDSrTZIC": {
+      "title": "Blackdan: A black-box multi-objective approach for effective and contextual jailbreaking of large language models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:isC4tDSrTZIC",
+      "citation_id": "jQSagnIAAAAJ:isC4tDSrTZIC",
+      "authors": "X Wang, VSJ Huang, R Chen, H Wang, C Pan, L Sha, M Huang",
+      "publication": "ICML 2025 NewInML Workshop, 2024",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3311909676783224384,6468815951532868429",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3311909676783224384%2C6468815951532868429&engine=google_scholar&hl=en",
+        "cites_id": "3311909676783224384,6468815951532868429"
+      },
+      "year": "2024"
+    },
+    "jQSagnIAAAAJ:HDshCWvjkbEC": {
+      "title": "BiPFT: Binary Pre-trained Foundation Transformer with Low-rank Estimation of Binarization Residual Polynomials",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:HDshCWvjkbEC",
+      "citation_id": "jQSagnIAAAAJ:HDshCWvjkbEC",
+      "authors": "X Xing, L Du, X Wang, X Zeng, Y Wang, Z Zhang, J Zhang",
+      "publication": "AAAI 2024, 2023",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17191510050039862591",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17191510050039862591&engine=google_scholar&hl=en",
+        "cites_id": "17191510050039862591"
+      },
+      "year": "2023"
+    },
+    "jQSagnIAAAAJ:JV2RwH3_ST0C": {
+      "title": "DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:JV2RwH3_ST0C",
+      "citation_id": "jQSagnIAAAAJ:JV2RwH3_ST0C",
+      "authors": "H Zhang, Y Liu, J Yang, W Guo, X Wang, P Fua",
+      "publication": "MICCAI 2025 Spotlight, 2025",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16705166217794742159",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16705166217794742159&engine=google_scholar&hl=en",
+        "cites_id": "16705166217794742159"
+      },
+      "year": "2025"
+    },
+    "jQSagnIAAAAJ:RHpTSmoSYBkC": {
+      "title": "Leveraging Frequency Domain Learning in 3D Vessel Segmentation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:RHpTSmoSYBkC",
+      "citation_id": "jQSagnIAAAAJ:RHpTSmoSYBkC",
+      "authors": "X Wang, C Pan, H Dai, G Zhao, J Li, X Zhang, Y Yu",
+      "publication": "BIBM 2023, 1503-1508, 2023",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9803335767595790612",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9803335767595790612&engine=google_scholar&hl=en",
+        "cites_id": "9803335767595790612"
+      },
+      "year": "2023"
+    },
+    "jQSagnIAAAAJ:xtRiw3GOFMkC": {
+      "title": "BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:xtRiw3GOFMkC",
+      "citation_id": "jQSagnIAAAAJ:xtRiw3GOFMkC",
+      "authors": "Y Li, B Wang, Y Gao, Y Yao, X Wang, Z Yin, X Qiu",
+      "publication": "ICML 2026, 2026",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11064200283053844276",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11064200283053844276&engine=google_scholar&hl=en",
+        "cites_id": "11064200283053844276"
+      },
+      "year": "2026"
+    },
+    "jQSagnIAAAAJ:R3hNpaxXUhUC": {
+      "title": "A Novel Multi-objective Squirrel Search Algorithm: MOSSA",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:R3hNpaxXUhUC",
+      "citation_id": "jQSagnIAAAAJ:R3hNpaxXUhUC",
+      "authors": "X Wang, F Zhang, Z Liu, C Zhang, Q Zhao, B Zhang",
+      "publication": "International Conference on Simulation Tools and Techniques, 180-195, 2020",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7563813400448286308",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7563813400448286308&engine=google_scholar&hl=en",
+        "cites_id": "7563813400448286308"
+      },
+      "year": "2020"
+    },
+    "jQSagnIAAAAJ:CHSYGLWDkRkC": {
+      "title": "Efficient KL Divergence Estimation via Truncated Top-K Integration for Large Language Models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:CHSYGLWDkRkC",
+      "citation_id": "jQSagnIAAAAJ:CHSYGLWDkRkC",
+      "authors": "X Wang, L Jin, B Wang, Y Li, Z Yin, X Qiu",
+      "publication": "ACL 2026 Main, 2026",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2026"
+    },
+    "jQSagnIAAAAJ:e5wmG9Sq2KIC": {
+      "title": "A Many-Objective Squirrel Hybrid Optimization Algorithm: MaSHOA",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jQSagnIAAAAJ&citation_for_view=jQSagnIAAAAJ:e5wmG9Sq2KIC",
+      "citation_id": "jQSagnIAAAAJ:e5wmG9Sq2KIC",
+      "authors": "Z Liu, F Zhang, X Wang, Q Zhao, C Zhang, B Zhang",
+      "publication": "International Conference on Simulation Tools and Techniques, 442-459, 2020",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2020"
+    }
+  },
+  "updated": "2026-10-17T03:20:39.015523+00:00",
+  "serpapi_search_id": "6ad2e97af357f66ab1273573"
+}
