@@ -251,7 +251,7 @@ Paper · [arXiv](https://arxiv.org/abs/2403.05246) · [Code](https://github.com/
 <span class='anchor' id='experience'></span>
 <span class='anchor' id='internships'></span>
 # 💼 Experience
-- *2026.11 - present*, [TikTok Shop](https://shop.tiktok.com/), Shanghai, China. Agentic LLM Algorithms Intern, focusing on recursive self-improvement (RSI).
+- *2026.11 - present*, [TikTok Shop](https://shop.tiktok.com/) ([ByteDance](https://www.bytedance.com/)), Shanghai, China. Agentic LLM Algorithms Intern, focusing on recursive self-improvement (RSI).
 - *2026.03 - 2026.11*, [Shanghai Innovation Institute](https://www.sii.edu.cn/), Shanghai, China. Visiting Student, focusing on agentic system development and LLM post-training.
 - *2025.01 - 2025.06*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, China. Research Intern at the Center for Safe & Trustworthy AI, under the guidance of [Chaochao Lu](https://causallu.com/bio/).
 - *2024.04 - present*, [Tsinghua University](https://www.tsinghua.edu.cn/), China. Research intern in Prof. [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml)'s group, focusing on the safety of multimodal large language models.
